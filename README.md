@@ -44,7 +44,17 @@ Os grupos de WhatsApp Dupla cidadania/Stamp4 IE são focados em responder dúvid
 30. [Qual formulário usar?](#30-qual-formulário-usar)
 31. [Quais documentos precisam de tradução juramentada e apostilamento?](#31-quais-documentos-precisam-de-tradução-juramentada-e-apostilamento)
 32. [Posso viajar antes da minha resposta chegar?](#32-posso-viajar-antes-da-minha-resposta-chegar)
-33. [SITES DE EMPREGO](#empregos)
+33. [Como acompanho meu processo?](#33-como-acompanho-meu-processo)
+34. [Onde renovou meu provisório?](#34-onde-renovo-meu-provisório)
+35. [Preciso de passagem de volta?](#35-preciso-de-passagem-de-volta)
+36. [Quanto tempo demora o processo de naturalização?](#36-quanto-tempo-demora-o-processo-de-naturalização)
+37. [Faço aplicação online ou por correio?](#37-faço-aplicação-online-ou-por-correio)
+38. [Qual o e-mail do EU Treaty Rights?](#38-qual-o-e-mail-do-eu-treaty-rights)
+39. [Como peço extensão do visto?](#39-como-peço-extensão-do-visto)
+40. [Posso casar por procuração?](#40-posso-casar-por-procuração)
+41. [Posso casar na Dinamarca ou Gibraltar ilegal?](#41-posso-casar-na-dinamarca-ou-gibraltar-ilegal)
+42. [Posso aplicar para cônjuge estando ilegal?](#42-posso-aplicar-para-cônjuge-estando-ilegal)
+43.[SITES DE EMPREGO](#empregos)
 
 
 ---
@@ -131,7 +141,7 @@ D02 XK70
 ```
 
 ### **5.4. Quanto tempo demora o processo?**
-O tempo estimado para o processamento do **Stamp 4 EUFam** é de até 6 meses. Durante esse período, o solicitante pode receber uma carta confirmando que a aplicação foi recebida e, em alguns casos, pode ser emitido um cartão temporário até a decisão final.
+O tempo estimado para o processamento do **Stamp 4 EUFam** é de até 6 meses. Durante esse período, o solicitante pode receber uma carta confirmando que a aplicação foi recebida e, em alguns casos, pode ser emitido um cartão IRP temporário até a decisão final.
 
 ### **5.5. O que é o Stamp 4 temporário?**
 O **Stamp 4 temporário** é um documento provisório que pode ser emitido enquanto o processo de aplicação para o **Stamp 4 EUFam** está em andamento. Ele permite que o solicitante continue residindo e trabalhando na Irlanda até que a decisão final seja tomada.
@@ -304,7 +314,7 @@ Para o agendamento no escritório de imigração (como no **Burgh Quay Registrat
 - Formulário de aplicação preenchido (se aplicável).
 - Todos os documentos de suporte relevantes (comprovantes de relacionamento, residência, etc.).
 - Duas fotos tipo passaporte.
-- Cartão de residência atual (se aplicável).
+- Cartão IRP de residência atual (se aplicável).
 - Comprovante de agendamento da consulta.
 
 ## **27. Quanto tempo demora para receber resposta?**
@@ -348,10 +358,51 @@ O formulário varia de acordo com a sua situação:
 ## **32. Posso viajar antes da minha resposta chegar?**
 
 Tecnicamente, você pode viajar enquanto sua aplicação está em processamento, mas existem alguns pontos importantes:
-- Se você estiver esperando por um **Stamp 4 EUFam**, é recomendável não viajar até que tenha recebido seu cartão GNIB.
+- Se você estiver esperando por um **Stamp 4 EUFam**, é recomendável não viajar até que tenha recebido seu cartão IRP.
 - Se você estiver aguardando uma **renovação de Stamp 4** e já tiver um visto válido, pode viajar, mas certifique-se de que terá os documentos necessários para reentrar na Irlanda.
 - Certifique-se de ter **provas de sua aplicação em andamento** ao retornar, como uma carta do [**INIS**](https://inisonline.jahs.ie/) confirmando a submissão.
 
+## **33. Como acompanho meu processo?**
+
+Você pode acompanhar o status da sua aplicação enviando um e-mail diretamente ao **INIS** (Irish Naturalisation and Immigration Service) ou verificando o status online no caso de algumas aplicações, como para a cidadania. Certifique-se de incluir seu **número de referência** e dados pessoais na correspondência. Para o **EU Treaty Rights**, você pode usar o e-mail [eutreatyrights@justice.ie](mailto:eutreatyrights@justice.ie).
+
+
+## **34. Onde renovo meu provisório?**
+
+Você pode renovar seu **provisório de imigração** no escritório de registro local de imigração, ou, no caso de Dublin, no **Burgh Quay Registration Office**. É necessário agendar um horário online, levar seu passaporte, cartão IRP atual, e quaisquer outros documentos relacionados.
+
+## **35. Preciso de passagem de volta?**
+
+Ao entrar na Irlanda como turista ou em alguns outros tipos de visto, a imigração pode solicitar uma **passagem de volta** como prova de que você não pretende exceder o período permitido de permanência. Para algumas aplicações de residência ou visto, pode ser necessário apresentar este documento.
+
+## **36. Quanto tempo demora o processo de naturalização?**
+
+O processo de naturalização na Irlanda pode demorar entre **12 a 24 meses**. Este tempo pode variar dependendo da complexidade do caso e do volume de aplicações que o **INIS** está processando no momento.
+
+## **37. Faço aplicação online ou por correio?**
+
+Atualmente, muitas aplicações relacionadas ao **Stamp 4** e outras formas de imigração ainda são feitas **por correio**, especialmente para o **Stamp 4 EUFam**. Certifique-se de enviar todos os documentos necessários para o endereço indicado no formulário relevante. Algumas renovações e processos como o registro podem ser feitos online, especialmente em Dublin.
+
+## **38. Qual o e-mail do EU Treaty Rights?**
+
+O e-mail do **EU Treaty Rights** é: [eutreatyrights@justice.ie](mailto:eutreatyrights@justice.ie). Você pode usá-lo para consultas sobre o processo de **Stamp 4 EUFam** ou outras questões relacionadas.
+
+## **39. Como peço extensão do visto?**
+
+Para pedir uma **extensão de visto**, você deve enviar um pedido ao **INIS** antes do vencimento do seu visto atual. Inclua sua documentação de suporte, passaporte, e explicações sobre o motivo da extensão. Dependendo do tipo de visto, o processo pode ser online ou por correio.
+
+
+## **40. Posso casar por procuração?**
+
+Na Irlanda, o casamento **por procuração** (onde uma das partes não está fisicamente presente) **não é permitido**. Ambos os noivos devem estar presentes no dia da cerimônia para que o casamento seja legalmente válido.
+
+## **41. Posso casar na Dinamarca ou Gibraltar ilegal?**
+
+Você pode se casar em **Dinamarca** ou **Gibraltar**, mas é importante que todos os documentos estejam em ordem. Tentar se casar sem a devida documentação ou estando em situação irregular pode invalidar o casamento ou trazer complicações legais.
+
+## **42. Posso aplicar para cônjuge estando ilegal?**
+
+Sim, você pode aplicar para o **Stamp 4 EUFam** ou outros tipos de residência mesmo estando em situação irregular. A Irlanda reconhece a união com cidadãos da UE ou irlandeses como uma justificativa válida para o pedido, mas é importante apresentar toda a documentação correta para evitar complicações durante o processo de análise.
 
 ## <a name="empregos"></a>SITES DE EMPREGO NA IRLANDA
 * [Indeed](http://ie.indeed.com/)
