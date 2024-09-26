@@ -56,8 +56,9 @@ Os grupos de WhatsApp Dupla cidadania/Stamp4 IE são focados em responder dúvid
 42. [Posso casar na Dinamarca ou Gibraltar ilegal?](#42-posso-casar-na-dinamarca-ou-gibraltar-ilegal)
 43. [Posso aplicar para cônjuge estando ilegal?](#43-posso-aplicar-para-cônjuge-estando-ilegal)
 44. [Após 5 anos de Stamp 4, como faço para renovar?](#44-após-5-anos-de-stamp-4-como-faço-para-renovar)
-45. [SITES DE EMPREGO](#empregos)
-
+45. [Eu era Stamp 2, apliquei para o Stamp 4 e recebi a carta aprovando o provisório, preciso de agendamento na Garda para trocar o cartão?](#45-eu-era-stamp-2-apliquei-para-o-stamp-4-e-recebi-a-carta-aprovando-o-provisório-preciso-de-agendamento-na-garda-para-trocar-o-cartão)
+46. [46. Escritorios da imigração na Irlanda](#46-escritorios-da-imigração-na-irlanda)
+47. [SITES DE EMPREGO NA IRLANDA](#empregos)
 
 ---
 
@@ -415,6 +416,80 @@ Sim, você pode aplicar para o **Stamp 4 EUFam** ou outros tipos de residência 
 ## **44. Após 5 anos de Stamp 4, como faço para renovar?**
 
 Após 5 anos de residência com o **Stamp 4**, você pode ser elegível para a **residência permanente**. O processo é bem similar a aplicação do EUTR1, só que nesse momento você deve preencher o [EUTR3](https://www.irishimmigration.ie/wp-content/uploads/2023/12/Form-EUTR3.pdf) e enviar para o mesmo endereço do EUTR1. Você deve enviar esses documentos 6 meses antes do vencimento do Stamp 4. Lembrando que são 5 anos ininterruptos, ou seja, se você sair do país por mais de 6 meses, você perde o direito a residência permanente. Nesse caso você deve aplicar novamente atrásves do processo [EUTR1](https://www.irishimmigration.ie/wp-content/uploads/2023/12/Form-EUTR1.pdf).
+
+## **45. Eu era Stamp 2, apliquei para o Stamp 4 e recebi a carta aprovando o provisório, preciso de agendamento na Garda para trocar o cartão?**
+
+Não. Se você estiver em Dublin, Kildare, Meath, Wicklow, Cork or Limerick você pode pedir o novo cartão IRP online através do site [INIS](https://inisonline.jahs.ie/). Se você estiver em outra região, você deve agendar um horário no escritório de imigração local.
+
+## **46. Escritorios da imigração na Irlanda**
+
+Para fazer o agendemento em outros escritórios da imigração na Irlanda, você pode entrar em contato por e-email. Por favor incluir nome, telefone, qual o tipo de Stamp você precisa e dados do passaporte. O contato dos escritórios são os seguintes e-mails:
+
+| Nome do Escritório             | Email                                       |
+|--------------------------------|---------------------------------------------|
+| Athlone                        | [Athlone_DS@garda.ie](mailto:Athlone_DS@garda.ie) |
+| Ashbourne                      | [Ashbourne.Immigration@garda.ie](mailto:Ashbourne.Immigration@garda.ie) |
+| Ballymote                      | [Ballymote_DS@garda.ie](mailto:Ballymote_DS@garda.ie) |
+| Bandon/Clonakilty             | [Bandon_DS@garda.ie](mailto:Bandon_DS@garda.ie) |
+| Bantry                         | [Bantry_DS@garda.ie](mailto:Bantry_DS@garda.ie) |
+| Cahir                          | [Cahir.Immigration@garda.ie](mailto:Cahir.Immigration@garda.ie) |
+| Castlerea                      | [Castlerea_DS@garda.ie](mailto:Castlerea_DS@garda.ie) |
+| Clare                          | [clare.immigration@garda.ie](mailto:clare.immigration@garda.ie) |
+| Clonmel                        | [clonmel_ds@garda.ie](mailto:clonmel_ds@garda.ie) |
+| Drogheda                       | [Drogheda.Immigration@garda.ie](mailto:Drogheda.Immigration@garda.ie) |
+| Dundalk                        | [Dundalk.ImmigrationUnit@garda.ie](mailto:Dundalk.ImmigrationUnit@garda.ie) |
+| Henry Street                   | [limerick.registration@garda.ie](mailto:limerick.registration@garda.ie) |
+| Kilkenny/Carlow                | [KilkennyCarlow.Immigration@garda.ie](mailto:KilkennyCarlow.Immigration@garda.ie) |
+| Killarney                     | [Killarney_DS@garda.ie](mailto:Killarney_DS@garda.ie) |
+| Letterkenny                   | [Letterkenny.Immigration@garda.ie](mailto:Letterkenny.Immigration@garda.ie) |
+| Listowel                      | [Listowel_DS@garda.ie](mailto:Listowel_DS@garda.ie) |
+| Longford                      | [Longford.Immigration@garda.ie](mailto:Longford.Immigration@garda.ie) |
+| Naas                          | [Naas.ImmigrationUnit@garda.ie](mailto:Naas.ImmigrationUnit@garda.ie) |
+| Navan                         | [Navan.Immigration@garda.ie](mailto:Navan.Immigration@garda.ie) |
+| Newcastle West                | [Newcastle_West_DS@garda.ie](mailto:Newcastle_West_DS@garda.ie) |
+| New Ross                      | [New_Ross_DS@garda.ie](mailto:New_Ross_DS@garda.ie) |
+| Sligo                         | [Sligo.Immigration@garda.ie](mailto:Sligo.Immigration@garda.ie) |
+| Trim                          | [Navan.Immigration@garda.ie](mailto:Navan.Immigration@garda.ie) |
+| Thurles                       | [Thurles.Immigration@garda.ie](mailto:Thurles.Immigration@garda.ie) |
+| Waterford                     | [Waterford.ImmigrationUnit@garda.ie](mailto:Waterford.ImmigrationUnit@garda.ie) |
+| Wexford                       | [Rosslare.Immigration@garda.ie](mailto:Rosslare.Immigration@garda.ie) |
+| Portlaoise                    | [Portlaoise.Immigration@garda.ie](mailto:Portlaoise.Immigration@garda.ie) |
+| Wicklow                       | [Wicklow.ImmigrationUnit@garda.ie](mailto:Wicklow.ImmigrationUnit@garda.ie) |
+| Baltinglass                   | Registrations to take place at Wicklow Registration Office |
+| Fermoy                        | [Fermoy.Immigration@garda.ie](mailto:Fermoy.Immigration@garda.ie) |
+| Leitrim                       | [Leitrim.Immigration@garda.ie](mailto:Leitrim.Immigration@garda.ie) |
+| Mullingar                     | [Mullingar.Immigration@garda.ie](mailto:Mullingar.Immigration@garda.ie) |
+| Cavan                         | [Cavan.Immigration@garda.ie](mailto:Cavan.Immigration@garda.ie) |
+| Ballina                       | [Ballina.Immigration@garda.ie](mailto:Ballina.Immigration@garda.ie) |
+| Belmullet                     | [Belmullet.Immigration@garda.ie](mailto:Belmullet.Immigration@garda.ie) |
+| Castlebar                     | [Castlebar.Immigration@garda.ie](mailto:Castlebar.Immigration@garda.ie) |
+| Claremorris                   | [Claremorris.Immigration@garda.ie](mailto:Claremorris.Immigration@garda.ie) |
+| Westport                      | [Westport.Immigration@garda.ie](mailto:Westport.Immigration@garda.ie) |
+| Buncrana                      | [Buncrana.Immigration@garda.ie](mailto:Buncrana.Immigration@garda.ie) |
+| Galway NQRHQ                  | [Gaillimh.Immigration@garda.ie](mailto:Gaillimh.Immigration@garda.ie) |
+| Ballinasloe                   | Registrations to take place at NQRHQ, Renmore, Galway |
+| Tuam                          | Registrations to take place at NQRHQ, Renmore, Galway |
+| Granard                       | [Granard.Immigration@garda.ie](mailto:Granard.Immigration@garda.ie) |
+| Bray                          | [Bray.Immigration@garda.ie](mailto:Bray.Immigration@garda.ie) |
+| Tullamore                     | [Tullamore.DistrictOffice@garda.ie](mailto:Tullamore.DistrictOffice@garda.ie) |
+| Midleton                      | [Midleton.Immigration@garda.ie](mailto:Midleton.Immigration@garda.ie) |
+| Milford                       | [Milford.Immigration@garda.ie](mailto:Milford.Immigration@garda.ie) |
+| Macroom                       | [Macroom.Immigration@garda.ie](mailto:Macroom.Immigration@garda.ie) |
+| Kells                         | [Kells_DS@garda.ie](mailto:Kells_DS@garda.ie) |
+| Mallow                        | [Mallow.DistrictOffice@garda.ie](mailto:Mallow.DistrictOffice@garda.ie) |
+| Tralee                        | [Tralee.Immigration@garda.ie](mailto:Tralee.Immigration@garda.ie) |
+| Ballyshannon                  | [Ballyshannon.Immigration@garda.ie](mailto:Ballyshannon.Immigration@garda.ie) |
+| Leixlip                       | [Leixlip.Immigrationunit@Garda.ie](mailto:Leixlip.Immigrationunit@Garda.ie) |
+| Tipperary Town                | [Tipperary.Immigration@garda.ie](mailto:Tipperary.Immigration@garda.ie) |
+| Monaghan                      | [Monaghan.DistrictOffice@garda.ie](mailto:Monaghan.DistrictOffice@garda.ie) |
+| Nenagh                        | [Nenagh.DS@garda.ie](mailto:Nenagh.DS@garda.ie) |
+| Roscommon                     | [Roscommon.Immigration@garda.ie](mailto:Roscommon.Immigration@garda.ie) |
+| Enniscorthy/Gorey             | [Enniscorthy_DS@garda.ie](mailto:Enniscorthy_DS@garda.ie) |
+| Shannon                       | [Clare.Immigration@garda.ie](mailto:Clare.Immigration@garda.ie) |
+| Bailieboro                    | [Bailieboro.Immigration@garda.ie](mailto:Bailieboro.Immigration@garda.ie) |
+| Carrickmacross                | [Carrickmacross.Immigration@garda.ie](mailto:Carrickmacross.Immigration@garda.ie) |
+
+
 
 ## <a name="empregos"></a>SITES DE EMPREGO NA IRLANDA
 * [Indeed](http://ie.indeed.com/)
