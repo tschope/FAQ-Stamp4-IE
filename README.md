@@ -6,55 +6,56 @@ Os grupos de WhatsApp Dupla cidadania/Stamp4 IE são focados em responder dúvid
 
 1. [O que é o Stamp 4?](#1-o-que-é-o-stamp-4)
 2. [Quem pode aplicar para o Stamp 4?](#2-quem-pode-aplicar-para-o-stamp-4)
-3. [Qual a diferença entre o Stamp 4 e outros Stamps?](#3-qual-a-diferença-entre-o-stamp-4-e-outros-stamps)
+3. [Stamp 4 e IRP são as mesmas coisas?](#3-stamp-4-e-ir-são-as-mesmas-coisas)
 4. [O que é o Stamp 4 EUFam?](#4-o-que-é-o-stamp-4-eufam)
-5. [Stamp 4 EUFam - Aplicação Detalhada](#5-stamp-4-eufam---aplicação-detalhada)
-    - 5.1. [Como aplicar para o Stamp 4 EUFam com o formulário EUTR1?](#51-como-aplicar-para-o-stamp-4-eufam-com-o-formulário-eutr1)
-    - 5.2. [Documentos necessários para anexar ao formulário EUTR1](#52-documentos-necessários-para-anexar-ao-formulário-eutr1)
-    - 5.3. [Onde submeter o formulário e documentos?](#53-onde-submeter-o-formulário-e-documentos)
-    - 5.4. [Quanto tempo demora o processo?](#54-quanto-tempo-demora-o-processo)
-6. [É possível aplicar para o Stamp 4 como dependente de cidadão da UE?](#6-é-possível-aplicar-para-o-stamp-4-como-dependente-de-cidadão-da-ue)
-7. [Quais são os benefícios do Stamp 4?](#7-quais-são-os-benefícios-do-stamp-4)
-8. [Quanto tempo posso ficar na Irlanda com o Stamp 4?](#8-quanto-tempo-posso-ficar-na-irlanda-com-o-stamp-4)
-9. [Posso aplicar para cidadania com o Stamp 4?](#9-posso-aplicar-para-cidadania-com-o-stamp-4)
-10. [Stamp 4 por casamento com cidadão irlandês](#10-stamp-4-por-casamento-com-cidadão-irlandês)
-11. [Como é o processo de aplicação para o Stamp 4 por casamento com cidadão irlandês?](#11-como-é-o-processo-de-aplicação-para-o-stamp-4-por-casamento-com-cidadão-irlandês)
-- 11.1. [Etapas do Processo de Aplicação](#111-etapas-do-processo-de-aplicação)
-- 11.2. [Documentos Necessários para a Aplicação](#112-documentos-necessários-para-a-aplicação)
-- 11.3. [Quanto tempo o processo pode levar?](#113-quanto-tempo-o-processo-pode-levar)
-- 11.4. [Como acompanhar sua aplicação?](#114-como-acompanhar-sua-aplicação)
-12. [Stamp 4 por visto de trabalho](#12-stamp-4-por-visto-de-trabalho)
-13. [Stamp 4 para familiares de irlandeses](#13-stamp-4-para-familiares-de-irlandeses)
-14. [Qual a diferença entre o Stamp 4 EUFam e o Stamp 4 por casamento com irlandês?](#14-qual-a-diferença-entre-o-stamp-4-eufam-e-o-stamp-4-por-casamento-com-irlandês)
-15. [Como obter o Stamp 4 após um visto de trabalho?](#15-como-obter-o-stamp-4-após-um-visto-de-trabalho)
-16. [Qual a diferença entre o Critical Skills Employment Permit e o General Employment Permit?](#16-qual-a-diferença-entre-o-critical-skills-employment-permit-e-o-general-employment-permit)
-17. [Como aplicar para o Stamp 4 após um Critical Skills Employment Permit?](#17-como-aplicar-para-o-stamp-4-após-um-critical-skills-employment-permit)
-18. [O que acontece se eu mudar de emprego antes de obter o Stamp 4?](#18-o-que-acontece-se-eu-mudar-de-emprego-antes-de-obter-o-stamp-4)
-19. [Posso aplicar para residência permanente com o Stamp 4 de trabalho?](#19-posso-aplicar-para-residência-permanente-com-o-stamp-4-de-trabalho)
-20. [Quais são os documentos necessários para o Stamp 4 EUFam?](#20-quais-são-os-documentos-necessários-para-o-stamp-4-eufam)
-21. [Quais documentos são necessários para o Stamp 4 por casamento com irlandês?](#21-quais-documentos-são-necessários-para-o-stamp-4-por-casamento-com-irlandês)
-22. [Quais são as taxas envolvidas no processo?](#22-quais-são-as-taxas-envolvidas-no-processo)
-23. [Quanto tempo demora o processo do Stamp 4?](#23-quanto-tempo-demora-o-processo-do-stamp-4)
-24. [O Stamp 4 permite que eu viaje pela Europa?](#24-o-stamp-4-permite-que-eu-viaje-pela-europa)
-25. [Posso perder o Stamp 4?](#25-posso-perder-o-stamp-4)
-26. [O que levar no agendamento?](#26-o-que-levar-no-agendamento)
-27. [Quanto tempo demora para receber resposta?](#27-quanto-tempo-demora-para-receber-resposta)
-28. [Preciso trocar meus detalhes, como envio?](#28-preciso-trocar-meus-detalhes-como-envio)
-29. [Como sei que a imigração recebeu minha carta?](#29-como-sei-que-a-imigração-recebeu-minha-carta)
-30. [Qual formulário usar?](#30-qual-formulário-usar)
-31. [Quais documentos precisam de tradução juramentada e apostilamento?](#31-quais-documentos-precisam-de-tradução-juramentada-e-apostilamento)
-32. [Posso viajar antes da minha resposta chegar?](#32-posso-viajar-antes-da-minha-resposta-chegar)
-33. [Como acompanho meu processo?](#33-como-acompanho-meu-processo)
-34. [Onde renovou meu provisório?](#34-onde-renovo-meu-provisório)
-35. [Preciso de passagem de volta?](#35-preciso-de-passagem-de-volta)
-36. [Quanto tempo demora o processo de naturalização?](#36-quanto-tempo-demora-o-processo-de-naturalização)
-37. [Faço aplicação online ou por correio?](#37-faço-aplicação-online-ou-por-correio)
-38. [Qual o e-mail do EU Treaty Rights?](#38-qual-o-e-mail-do-eu-treaty-rights)
-39. [Como peço extensão do visto?](#39-como-peço-extensão-do-visto)
-40. [Posso casar por procuração?](#40-posso-casar-por-procuração)
-41. [Posso casar na Dinamarca ou Gibraltar ilegal?](#41-posso-casar-na-dinamarca-ou-gibraltar-ilegal)
-42. [Posso aplicar para cônjuge estando ilegal?](#42-posso-aplicar-para-cônjuge-estando-ilegal)
-43. [SITES DE EMPREGO](#empregos)
+5. [Quais os requisitos para aplicar para o Stamp 4 EUFam?](#5-quais-os-requisitos-para-aplicar-para-o-stamp-4-eufam)
+6. [Como é o processo para obter o Stamp 4 EUFam?](#6-como-é-o-processo-para-obter-o-stamp-4-eufam)
+    - 6.1. [Como aplicar para o Stamp 4 EUFam com o formulário EUTR1?](#61-como-aplicar-para-o-stamp-4-eufam-com-o-formulário-eutr1)
+    - 6.2. [Documentos necessários para anexar ao formulário EUTR1](#62-documentos-necessários-para-anexar-ao-formulário-eutr1)
+    - 6.3. [Onde submeter o formulário e documentos?](#63-onde-submeter-o-formulário-e-documentos)
+    - 6.4. [Quanto tempo demora o processo?](#64-quanto-tempo-demora-o-processo)
+7. [É possível aplicar para o Stamp 4 como dependente de cidadão da UE?](#7-é-possível-aplicar-para-o-stamp-4-como-dependente-de-cidadão-da-ue)
+8. [Quais são os benefícios do Stamp 4?](#8-quais-são-os-benefícios-do-stamp-4)
+9. [Quanto tempo posso ficar na Irlanda com o Stamp 4?](#9-quanto-tempo-posso-ficar-na-irlanda-com-o-stamp-4)
+10. [Posso aplicar para cidadania com o Stamp 4?](#10-posso-aplicar-para-cidadania-com-o-stamp-4)
+11. [Stamp 4 por casamento com cidadão irlandês](#11-stamp-4-por-casamento-com-cidadão-irlandês)
+12. [Como é o processo de aplicação para o Stamp 4 por casamento com cidadão irlandês?](#12-como-é-o-processo-de-aplicação-para-o-stamp-4-por-casamento-com-cidadão-irlandês)
+    - 12.1. [Etapas do Processo de Aplicação](#121-etapas-do-processo-de-aplicação)
+    - 12.2. [Documentos Necessários para a Aplicação](#122-documentos-necessários-para-a-aplicação)
+    - 12.3. [Quanto tempo o processo pode levar?](#123-quanto-tempo-o-processo-pode-levar)
+    - 12.4. [Como acompanhar sua aplicação?](#124-como-acompanhar-sua-aplicação)
+13. [Stamp 4 por visto de trabalho](#13-stamp-4-por-visto-de-trabalho)
+14. [Stamp 4 para familiares de irlandeses](#14-stamp-4-para-familiares-de-irlandeses)
+15. [Qual a diferença entre o Stamp 4 EUFam e o Stamp 4 por casamento com irlandês?](#15-qual-a-diferença-entre-o-stamp-4-eufam-e-o-stamp-4-por-casamento-com-irlandês)
+16. [Como obter o Stamp 4 após um visto de trabalho?](#16-como-obter-o-stamp-4-após-um-visto-de-trabalho)
+17. [Qual a diferença entre o Critical Skills Employment Permit e o General Employment Permit?](#17-qual-a-diferença-entre-o-critical-skills-employment-permit-e-o-general-employment-permit)
+18. [Como aplicar para o Stamp 4 após um Critical Skills Employment Permit?](#18-como-aplicar-para-o-stamp-4-após-um-critical-skills-employment-permit)
+19. [O que acontece se eu mudar de emprego antes de obter o Stamp 4?](#19-o-que-acontece-se-eu-mudar-de-emprego-antes-de-obter-o-stamp-4)
+20. [Posso aplicar para residência permanente com o Stamp 4 de trabalho?](#20-posso-aplicar-para-residência-permanente-com-o-stamp-4-de-trabalho)
+21. [Quais são os documentos necessários para o Stamp 4 EUFam?](#21-quais-são-os-documentos-necessários-para-o-stamp-4-eufam)
+22. [Quais documentos são necessários para o Stamp 4 por casamento com irlandês?](#22-quais-documentos-são-necessários-para-o-stamp-4-por-casamento-com-irlandês)
+23. [Quais são as taxas envolvidas no processo?](#23-quais-são-as-taxas-envolvidas-no-processo)
+24. [Quanto tempo demora o processo do Stamp 4?](#24-quanto-tempo-demora-o-processo-do-stamp-4)
+25. [O Stamp 4 permite que eu viaje pela Europa?](#25-o-stamp-4-permite-que-eu-viaje-pela-europa)
+26. [Posso perder o Stamp 4?](#26-posso-perder-o-stamp-4)
+27. [O que levar no agendamento?](#27-o-que-levar-no-agendamento)
+28. [Quanto tempo demora para receber resposta?](#28-quanto-tempo-demora-para-receber-resposta)
+29. [Preciso trocar meus detalhes, como envio?](#29-preciso-trocar-meus-detalhes-como-envio)
+30. [Como sei que a imigração recebeu minha carta?](#30-como-sei-que-a-imigração-recebeu-minha-carta)
+31. [Qual formulário usar?](#31-qual-formulário-usar)
+32. [Quais documentos precisam de tradução juramentada e apostilamento?](#32-quais-documentos-precisam-de-tradução-juramentada-e-apostilamento)
+33. [Posso viajar antes da minha resposta chegar?](#33-posso-viajar-antes-da-minha-resposta-chegar)
+34. [Como acompanho meu processo?](#34-como-acompanho-meu-processo)
+35. [Onde renovou meu provisório?](#35-onde-renovo-meu-provisório)
+36. [Preciso de passagem de volta?](#36-preciso-de-passagem-de-volta)
+37. [Quanto tempo demora o processo de naturalização?](#37-quanto-tempo-demora-o-processo-de-naturalização)
+38. [Faço aplicação online ou por correio?](#38-faço-aplicação-online-ou-por-correio)
+39. [Qual o e-mail do EU Treaty Rights?](#39-qual-o-e-mail-do-eu-treaty-rights)
+40. [Como peço extensão do visto?](#40-como-peço-extensão-do-visto)
+41. [Posso casar por procuração?](#41-posso-casar-por-procuração)
+42. [Posso casar na Dinamarca ou Gibraltar ilegal?](#42-posso-casar-na-dinamarca-ou-gibraltar-ilegal)
+43. [Posso aplicar para cônjuge estando ilegal?](#43-posso-aplicar-para-cônjuge-estando-ilegal)
+44. [SITES DE EMPREGO](#empregos)
 
 
 ---
@@ -67,19 +68,25 @@ O **Stamp 4** é um tipo de permissão de residência que permite a uma pessoa v
 - **Stamp 4 por casamento com cidadão irlandês**: Para quem é casado ou parceiro civil de um cidadão irlandês.
 - **Stamp 4 de trabalho**: Concedido a quem possui determinados tipos de autorização de trabalho, como o *Critical Skills Employment Permit*.
 
+## **3. Stamp 4 e IRP são as mesmas coisas?**
+
+Não. Para obter o cartão de **IRP** (Irish Residence Permit) você precisa passar pelo processo de aprovação do **Stamp 4**, seja o temporário ou o permanente.
+
+O **Stamp 4** é uma permissão de residência, enquanto o **IRP** (Irish Residence Permit) é o cartão físico que você recebe para comprovar seu status de residência na Irlanda. O **Stamp 4** é o status, e o **IRP** é o documento que você carrega consigo.
+
 ---
 
 ## **Stamp 4 EUFam**
 
-### **3. O que é o Stamp 4 EUFam?**
+### **4. O que é o Stamp 4 EUFam?**
 O Stamp 4 EUFam é concedido a cônjuges, parceiros civis ou dependentes de cidadãos da União Europeia (exceto cidadãos irlandeses) que estão vivendo e exercendo o seu direito de livre circulação na Irlanda.
 
-### **4. Quais os requisitos para aplicar para o Stamp 4 EUFam?**
+### **5. Quais os requisitos para aplicar para o Stamp 4 EUFam?**
 - Ser cônjuge ou parceiro civil registrado de um cidadão da UE.
 - O cidadão da UE deve estar residindo na Irlanda e exercendo seus direitos de livre circulação, ou seja, trabalhando, estudando ou tendo meios próprios de subsistência.
 - O relacionamento deve ser genuíno e contínuo.
 
-### **5. Como é o processo para obter o Stamp 4 EUFam?**
+### **6. Como é o processo para obter o Stamp 4 EUFam?**
 - Você deve aplicar para o **IRP Stamp 4 EUFam** enviando um formulário [EUTR1](https://www.irishimmigration.ie/wp-content/uploads/2023/12/Form-EUTR1.pdf) e os documentos exigidos ao **INIS** (Irish Naturalisation and Immigration Service). O envio deve ser feito por An Post (carta/envelope) registrada. O único comprovante de envio que você terá é o recibo do An Post.
 
 ```
@@ -95,7 +102,7 @@ D02 XK70
 - O processo pode levar até 6 meses para ser finalizado.
 - É normal o pedido de mais documentos durante o processo, e a primeira resposta aprovando o pedido pode ser um **Stamp 4 temporário** ocorre entre 4 a 8 semanas após o envio da aplicação.
 
-### **5.1. Como aplicar para o Stamp 4 EUFam com o formulário EUTR1?**
+### **6.1. Como aplicar para o Stamp 4 EUFam com o formulário EUTR1?**
 
 Para aplicar ao **Stamp 4 EUFam**, é necessário preencher o formulário **EUTR1** (Residency Card for Family Members of EU Citizens). Este formulário é submetido ao [**INIS**](https://inisonline.jahs.ie/) (Irish Naturalisation and Immigration Service) junto com uma série de documentos comprobatórios.
 
@@ -103,7 +110,7 @@ Para aplicar ao **Stamp 4 EUFam**, é necessário preencher o formulário **EUTR
 Você pode acessar e baixar o formulário **EUTR1** no site oficial do Departamento de Justiça da Irlanda pelo seguinte link:
 [Formulário EUTR1 - Aplicação para EUFam Residency Card](https://www.irishimmigration.ie/wp-content/uploads/2023/12/Form-EUTR1.pdf)
 
-### **5.2. Documentos necessários para anexar ao formulário EUTR1**
+### **6.2. Documentos necessários para anexar ao formulário EUTR1**
 
 Ao aplicar para o **Stamp 4 EUFam**, você precisará fornecer os seguintes documentos, além do formulário preenchido:
 
@@ -128,7 +135,7 @@ Ao aplicar para o **Stamp 4 EUFam**, você precisará fornecer os seguintes docu
 8. **Certificado de registro no PPSN** do cidadão da UE (Personal Public Service Number).
 9. **Seguro de saúde** (em caso de aplicação por recursos próprios ).
 
-### **5.3. Onde submeter o formulário e documentos?**
+### **6.3. Onde submeter o formulário e documentos?**
 O formulário preenchido, junto com todos os documentos listados, deve ser enviado pelo correio para o [**INIS**](https://inisonline.jahs.ie/):
 
 ```
@@ -140,41 +147,41 @@ Dublin 2,
 D02 XK70
 ```
 
-### **5.4. Quanto tempo demora o processo?**
+### **6.4. Quanto tempo demora o processo?**
 O tempo estimado para o processamento do **Stamp 4 EUFam** é de até 6 meses. Durante esse período, o solicitante pode receber uma carta confirmando que a aplicação foi recebida e, em alguns casos, pode ser emitido um cartão IRP temporário até a decisão final.
 
-### **5.5. O que é o Stamp 4 temporário?**
+### **6.5. O que é o Stamp 4 temporário?**
 O **Stamp 4 temporário** é um documento provisório que pode ser emitido enquanto o processo de aplicação para o **Stamp 4 EUFam** está em andamento. Ele permite que o solicitante continue residindo e trabalhando na Irlanda até que a decisão final seja tomada.
 
 
-### **6. Quanto tempo é válido o Stamp 4 EUFam?**
+### **7. Quanto tempo é válido o Stamp 4 EUFam?**
 O Stamp 4 EUFam geralmente é válido por 5 anos, com a possibilidade de renovação. Após 5 anos, você pode aplicar para o **Permanent Residence Card**. O temporário é válido por 6 meses.
 
-### **7. Posso trabalhar com o Stamp 4 EUFam?**
+### **8. Posso trabalhar com o Stamp 4 EUFam?**
 Sim, o Stamp 4 permite que você trabalhe na Irlanda sem a necessidade de um visto de trabalho adicional.
 
-### **8. Como é a renovação do Stamp 4 EUFam?**
+### **9. Como é a renovação do Stamp 4 EUFam?**
 A renovação envolve uma nova aplicação ao [**INIS**](https://inisonline.jahs.ie/), e será necessário demonstrar que você ainda atende às condições originais (o cidadão da UE ainda está residindo na Irlanda e exercendo seus direitos).
 
 ---
 
 ## **Stamp 4 por Casamento com Cidadão Irlandês**
 
-### **9. Como funciona o Stamp 4 para quem é casado com um cidadão irlandês?**
+### **10. Como funciona o Stamp 4 para quem é casado com um cidadão irlandês?**
 Quem é casado ou parceiro civil de um cidadão irlandês pode solicitar o Stamp 4 com base no relacionamento. O pedido é feito diretamente ao [**INIS**](https://inisonline.jahs.ie/).
 
-### **10. Quais os requisitos para obter o Stamp 4 por casamento com irlandês?**
+### **11. Quais os requisitos para obter o Stamp 4 por casamento com irlandês?**
 - Provar que você é casado ou parceiro civil de um cidadão irlandês.
 - Demonstrar que o casamento ou a união é genuína e contínua.
 - O casal deve residir na Irlanda juntos.
 
-### **11. Como é o processo de aplicação para o Stamp 4 por casamento com cidadão irlandês?**
+### **12. Como é o processo de aplicação para o Stamp 4 por casamento com cidadão irlandês?**
 
 O processo para solicitar o **Stamp 4** com base em casamento com um cidadão irlandês envolve várias etapas e a submissão de documentos comprobatórios. Abaixo estão os detalhes passo a passo de como proceder com a aplicação.
 
 ---
 
-#### **11.1. Etapas do Processo de Aplicação**
+#### **12.1. Etapas do Processo de Aplicação**
 
 #### **Passo 1: Reunir os documentos necessários**
 
@@ -221,7 +228,7 @@ Se sua aplicação for recusada, você terá o direito de apelar da decisão ou 
 
 ---
 
-#### **11.2. Documentos Necessários para a Aplicação**
+#### **12.2. Documentos Necessários para a Aplicação**
 
 A lista de documentos é crucial para garantir que sua aplicação seja aprovada. Aqui estão os documentos básicos que você precisa anexar ao seu formulário:
 
@@ -242,72 +249,72 @@ A lista de documentos é crucial para garantir que sua aplicação seja aprovada
 
 ---
 
-#### **11.3. Quanto tempo o processo pode levar?**
+#### **12.3. Quanto tempo o processo pode levar?**
 
 O tempo de processamento do **Stamp 4** por casamento pode variar, mas geralmente é de **6 a 12 semanas**. No entanto, em alguns casos, pode demorar mais, dependendo da complexidade da sua situação ou da carga de trabalho do [**INIS**](https://inisonline.jahs.ie/).
 
-### **12. Quanto tempo o Stamp 4 para cônjuges de irlandeses é válido?**
+### **13. Quanto tempo o Stamp 4 para cônjuges de irlandeses é válido?**
 Inicialmente, ele pode ser concedido por 3 anos, com a possibilidade de renovação por períodos mais longos.
 
-### **13. Posso trabalhar com o Stamp 4 por casamento com irlandês?**
+### **14. Posso trabalhar com o Stamp 4 por casamento com irlandês?**
 Sim, o Stamp 4 permite que você trabalhe na Irlanda sem necessidade de visto de trabalho.
 
-### **14. É necessário renovar o Stamp 4 por casamento com irlandês?**
+### **15. É necessário renovar o Stamp 4 por casamento com irlandês?**
 Sim, após o término do período inicial de validade (geralmente 3 anos), você pode renová-lo através de um processo similar ao da primeira aplicação.
 
 ---
 
 ## **Stamp 4 por Trabalho**
 
-### **15. Quem pode solicitar o Stamp 4 com base em trabalho?**
+### **16. Quem pode solicitar o Stamp 4 com base em trabalho?**
 Quem possui certos tipos de autorização de trabalho, como o **Critical Skills Employment Permit** ou o **General Employment Permit**, pode ser elegível para o Stamp 4 após um certo período de trabalho na Irlanda.
 
-### **16. Qual a diferença entre o Critical Skills Employment Permit e o General Employment Permit?**
+### **17. Qual a diferença entre o Critical Skills Employment Permit e o General Employment Permit?**
 - **Critical Skills Employment Permit**: Destinado a profissionais de áreas com alta demanda na Irlanda. Após 2 anos com esse visto, você pode aplicar para o Stamp 4.
 - **General Employment Permit**: Após 5 anos de trabalho com esse tipo de permissão, você pode ser elegível para o Stamp 4.
 
-### **17. Como aplicar para o Stamp 4 após um Critical Skills Employment Permit?**
+### **18. Como aplicar para o Stamp 4 após um Critical Skills Employment Permit?**
 Após completar 2 anos com o **Critical Skills Permit**, você pode aplicar diretamente ao [**INIS**](https://inisonline.jahs.ie/) para o Stamp 4. O processo inclui enviar comprovantes de que você trabalhou legalmente na Irlanda durante esse período.
 
-### **18. O que acontece se eu mudar de emprego antes de obter o Stamp 4?**
+### **19. O que acontece se eu mudar de emprego antes de obter o Stamp 4?**
 Se você mudar de emprego durante o período do **Critical Skills Permit**, é necessário informar o [**INIS**](https://inisonline.jahs.ie/) e obter uma nova permissão de trabalho se for um emprego diferente da sua área de atuação original.
 
-### **19. Posso aplicar para residência permanente com o Stamp 4 de trabalho?**
+### **20. Posso aplicar para residência permanente com o Stamp 4 de trabalho?**
 Sim, após viver na Irlanda com o Stamp 4 por 5 anos, você pode ser elegível para residência permanente.
 
 ---
 
 ## **Processos e Documentação**
 
-### **20. Quais são os documentos necessários para o Stamp 4 EUFam?**
+### **21. Quais são os documentos necessários para o Stamp 4 EUFam?**
 - Passaporte válido.
 - Certidão de casamento ou registro de parceria civil.
 - Provas de que o cidadão da UE está exercendo seus direitos (contracheques, contrato de trabalho, etc.).
 - Prova de residência conjunta na Irlanda.
 
-### **21. Quais documentos são necessários para o Stamp 4 por casamento com irlandês?**
+### **22. Quais documentos são necessários para o Stamp 4 por casamento com irlandês?**
 - Passaporte válido.
 - Certidão de casamento ou registro de parceria civil.
 - Prova de residência conjunta.
 - Comprovantes de que o relacionamento é contínuo.
 
-### **22. Quais são as taxas envolvidas no processo?**
+### **23. Quais são as taxas envolvidas no processo?**
 Atualmente, não há taxas específicas para a aplicação do **Stamp 4 EUFam**. No entanto, outros tipos de permissões de trabalho ou residência podem ter taxas administrativas. Consulte o [**INIS**](https://inisonline.jahs.ie/) para detalhes.
 
 ---
 
 ## **Outras Perguntas Frequentes**
 
-### **23. Quanto tempo demora o processo do Stamp 4?**
+### **24. Quanto tempo demora o processo do Stamp 4?**
 O processo pode demorar até 6 meses, dependendo do tipo de Stamp e da carga de trabalho do [**INIS**](https://inisonline.jahs.ie/).
 
-### **24. O Stamp 4 permite que eu viaje pela Europa?**
+### **25. O Stamp 4 permite que eu viaje pela Europa?**
 Sim, o Stamp 4 concede residência na Irlanda, mas para viajar para outros países da UE, é importante verificar os requisitos de visto para cidadãos brasileiros no destino.
 
-### **25. Posso perder o Stamp 4?**
+### **26. Posso perder o Stamp 4?**
 Sim, se você não atender mais aos requisitos (por exemplo, se o relacionamento com o cidadão da UE ou irlandês acabar), você pode perder o direito ao Stamp 4.
 
-## **26. O que levar no agendamento?**
+## **27. O que levar no agendamento?**
 
 Para o agendamento no escritório de imigração (como no **Burgh Quay Registration Office**, em Dublin), você deve levar:
 - Passaporte válido.
@@ -317,14 +324,14 @@ Para o agendamento no escritório de imigração (como no **Burgh Quay Registrat
 - Cartão IRP de residência atual (se aplicável).
 - Comprovante de agendamento da consulta.
 
-## **27. Quanto tempo demora para receber resposta?**
+## **28. Quanto tempo demora para receber resposta?**
 
 O tempo de processamento pode variar de acordo com o tipo de aplicação:
 - **Stamp 4 EUFam**: Pode demorar até **6 meses**.
 - **Stamp 4 por casamento com irlandês**: Geralmente leva de **6 a 12 semanas**, mas pode ser mais longo dependendo do volume de trabalho do [**INIS**](https://inisonline.jahs.ie/).
 
 
-## **28. Preciso trocar meus detalhes, como envio?**
+## **29. Preciso trocar meus detalhes, como envio?**
 
 Se você precisar atualizar detalhes como mudança de endereço, status civil ou qualquer outra informação importante, envie uma carta para o [**INIS**](https://inisonline.jahs.ie/) com os documentos comprovativos e seu número de referência de imigração. O endereço para envio geralmente é o seguinte:
 
@@ -339,68 +346,68 @@ D02 XK70
 
 Você pode tentar também por e-mail atravês do e-mail [eutreatyrights@justice.ie](mailto:eutreatyrights@justice.ie) anexando os comprovantes necessario eu passando o seu Application ID no Título e corpo do e-mail.
 
-## **29. Como sei que a imigração recebeu minha carta?**
+## **30. Como sei que a imigração recebeu minha carta?**
 
 Geralmente, o [**INIS**](https://inisonline.jahs.ie/) não confirma o recebimento de cartas individuais. No entanto, você pode enviar sua carta por **correio registrado**, o que permite obter uma prova de entrega.
 
 
-## **30. Qual formulário usar?**
+## **31. Qual formulário usar?**
 
 O formulário varia de acordo com a sua situação:
 - **Stamp 4 EUFam**: Use o formulário **EUTR1**, disponível no site oficial do [**INIS**](https://inisonline.jahs.ie/).
 - **Stamp 4 por casamento com cidadão irlandês**: Geralmente, o formulário é fornecido no escritório de imigração durante a consulta.
 
-## **31. Quais documentos precisam de tradução juramentada e apostilamento?**
+## **32. Quais documentos precisam de tradução juramentada e apostilamento?**
 
 - **Tradução juramentada**: Todos os documentos que não estão em inglês ou irlandês precisam ser traduzidos por um tradutor juramentado. Isso inclui certidões de casamento, nascimento, documentos legais estrangeiros, etc.
 - **Apostilamento**: Certidões e outros documentos oficiais estrangeiros devem ser apostilados (conforme a **Convenção de Haia**) antes de serem apresentados.
 
-## **32. Posso viajar antes da minha resposta chegar?**
+## **33. Posso viajar antes da minha resposta chegar?**
 
 Tecnicamente, você pode viajar enquanto sua aplicação está em processamento, mas existem alguns pontos importantes:
 - Se você estiver esperando por um **Stamp 4 EUFam**, é recomendável não viajar até que tenha recebido seu cartão IRP.
 - Se você estiver aguardando uma **renovação de Stamp 4** e já tiver um visto válido, pode viajar, mas certifique-se de que terá os documentos necessários para reentrar na Irlanda.
 - Certifique-se de ter **provas de sua aplicação em andamento** ao retornar, como uma carta do [**INIS**](https://inisonline.jahs.ie/) confirmando a submissão.
 
-## **33. Como acompanho meu processo?**
+## **34. Como acompanho meu processo?**
 
 Você pode acompanhar o status da sua aplicação enviando um e-mail diretamente ao **INIS** (Irish Naturalisation and Immigration Service) ou verificando o status online no caso de algumas aplicações, como para a cidadania. Certifique-se de incluir seu **número de referência** e dados pessoais na correspondência. Para o **EU Treaty Rights**, você pode usar o e-mail [eutreatyrights@justice.ie](mailto:eutreatyrights@justice.ie).
 
 
-## **34. Onde renovo meu provisório?**
+## **35. Onde renovo meu provisório?**
 
 Você pode renovar seu **provisório de imigração** no escritório de registro local de imigração, ou, no caso de Dublin, no **Burgh Quay Registration Office**. É necessário agendar um horário online, levar seu passaporte, cartão IRP atual, e quaisquer outros documentos relacionados.
 
-## **35. Preciso de passagem de volta?**
+## **36. Preciso de passagem de volta?**
 
 Ao entrar na Irlanda como turista ou em alguns outros tipos de visto, a imigração pode solicitar uma **passagem de volta** como prova de que você não pretende exceder o período permitido de permanência. Para algumas aplicações de residência ou visto, pode ser necessário apresentar este documento.
 
-## **36. Quanto tempo demora o processo de naturalização?**
+## **37. Quanto tempo demora o processo de naturalização?**
 
 O processo de naturalização na Irlanda pode demorar entre **12 a 24 meses**. Este tempo pode variar dependendo da complexidade do caso e do volume de aplicações que o **INIS** está processando no momento.
 
-## **37. Faço aplicação online ou por correio?**
+## **38. Faço aplicação online ou por correio?**
 
 Atualmente, muitas aplicações relacionadas ao **Stamp 4** e outras formas de imigração ainda são feitas **por correio**, especialmente para o **Stamp 4 EUFam**. Certifique-se de enviar todos os documentos necessários para o endereço indicado no formulário relevante. Algumas renovações e processos como o registro podem ser feitos online, especialmente em Dublin.
 
-## **38. Qual o e-mail do EU Treaty Rights?**
+## **39. Qual o e-mail do EU Treaty Rights?**
 
 O e-mail do **EU Treaty Rights** é: [eutreatyrights@justice.ie](mailto:eutreatyrights@justice.ie). Você pode usá-lo para consultas sobre o processo de **Stamp 4 EUFam** ou outras questões relacionadas.
 
-## **39. Como peço extensão do visto?**
+## **40. Como peço extensão do visto?**
 
 Para pedir uma **extensão de visto**, você deve enviar um pedido ao **INIS** antes do vencimento do seu visto atual. Inclua sua documentação de suporte, passaporte, e explicações sobre o motivo da extensão. Dependendo do tipo de visto, o processo pode ser online ou por correio.
 
 
-## **40. Posso casar por procuração?**
+## **41. Posso casar por procuração?**
 
 Na Irlanda, o casamento **por procuração** (onde uma das partes não está fisicamente presente) **não é permitido**. Ambos os noivos devem estar presentes no dia da cerimônia para que o casamento seja legalmente válido.
 
-## **41. Posso casar na Dinamarca ou Gibraltar ilegal?**
+## **42. Posso casar na Dinamarca ou Gibraltar ilegal?**
 
 Você pode se casar em **Dinamarca** ou **Gibraltar**, mas é importante que todos os documentos estejam em ordem. Tentar se casar sem a devida documentação ou estando em situação irregular pode invalidar o casamento ou trazer complicações legais.
 
-## **42. Posso aplicar para cônjuge estando ilegal?**
+## **43. Posso aplicar para cônjuge estando ilegal?**
 
 Sim, você pode aplicar para o **Stamp 4 EUFam** ou outros tipos de residência mesmo estando em situação irregular. A Irlanda reconhece a união com cidadãos da UE ou irlandeses como uma justificativa válida para o pedido, mas é importante apresentar toda a documentação correta para evitar complicações durante o processo de análise.
 
