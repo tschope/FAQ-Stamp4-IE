@@ -55,7 +55,8 @@ Os grupos de WhatsApp Dupla cidadania/Stamp4 IE são focados em responder dúvid
 41. [Posso casar por procuração?](#41-posso-casar-por-procuração)
 42. [Posso casar na Dinamarca ou Gibraltar ilegal?](#42-posso-casar-na-dinamarca-ou-gibraltar-ilegal)
 43. [Posso aplicar para cônjuge estando ilegal?](#43-posso-aplicar-para-cônjuge-estando-ilegal)
-44. [SITES DE EMPREGO](#empregos)
+44. [Após 5 anos de Stamp 4, como faço para renovar?](#44-após-5-anos-de-stamp-4-como-faço-para-renovar)
+45. [SITES DE EMPREGO](#empregos)
 
 
 ---
@@ -410,6 +411,10 @@ Você pode se casar em **Dinamarca** ou **Gibraltar**, mas é importante que tod
 ## **43. Posso aplicar para cônjuge estando ilegal?**
 
 Sim, você pode aplicar para o **Stamp 4 EUFam** ou outros tipos de residência mesmo estando em situação irregular. A Irlanda reconhece a união com cidadãos da UE ou irlandeses como uma justificativa válida para o pedido, mas é importante apresentar toda a documentação correta para evitar complicações durante o processo de análise.
+
+## **44. Após 5 anos de Stamp 4, como faço para renovar?**
+
+Após 5 anos de residência com o **Stamp 4**, você pode ser elegível para a **residência permanente**. O processo é bem similar a aplicação do EUTR1, só que nesse momento você deve preencher o [EUTR3](https://www.irishimmigration.ie/wp-content/uploads/2023/12/Form-EUTR3.pdf) e enviar para o mesmo endereço do EUTR1. Você deve enviar esses documentos 6 meses antes do vencimento do Stamp 4. Lembrando que são 5 anos ininterruptos, ou seja, se você sair do país por mais de 6 meses, você perde o direito a residência permanente. Nesse caso você deve aplicar novamente atrásves do processo [EUTR1](https://www.irishimmigration.ie/wp-content/uploads/2023/12/Form-EUTR1.pdf).
 
 ## <a name="empregos"></a>SITES DE EMPREGO NA IRLANDA
 * [Indeed](http://ie.indeed.com/)
