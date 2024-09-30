@@ -193,6 +193,12 @@ Antes de preencher o formulário, é fundamental reunir toda a documentação ex
 
 O formulário que você precisa preencher é o **Formulário de Pedido de Stamp 4 com base em Casamento com Cidadão Irlandês**. No momento, este formulário não está disponível online, e a maioria das aplicações deve ser feita pessoalmente em um escritório de imigração local (para residentes fora de Dublin) ou no **Burgh Quay Registration Office** (para residentes em Dublin).
 
+O processo de visto de residência por casamento com Irlandês funciona um pouco para diferente. Primeiro, o aconselhado é se dirigir ao escritório da Garda Local [encontre aqui](#46-escritorios-da-imigra%C3%A7%C3%A3o-na-irlanda) e se informar do procedimento. Muitas cidades fazem o processo internamente sem a necessidade de preencher o formulário. Caso sua cidade não faz, você devera preencher o seguinte formulário e enviar para os dados conforme link instrutivo.
+
+O formulário a ser preenchido pode ser encontrado no [seguinte link](https://www.irishimmigration.ie/wp-content/uploads/2024/09/Spouse-of-Irish-Application-Form-12-Sept-2024.pdf)
+
+Instruções: [Folheto Oficial](https://www.irishimmigration.ie/my-situation-has-changed-since-i-arrived-in-ireland/spouse-civil-partner-of-irish-national-scheme/#How)
+
 **Dicas para Preenchimento:**
 - Certifique-se de que todas as seções do formulário estejam devidamente preenchidas.
 - Use as informações exatas como aparecem nos seus documentos oficiais (por exemplo, nome no passaporte, data de nascimento, etc.).
@@ -346,7 +352,7 @@ Dublin 2,
 D02 XK70
 ```
 
-Você pode tentar também por e-mail atravês do e-mail [eutreatyrights@justice.ie](mailto:eutreatyrights@justice.ie) anexando os comprovantes necessario eu passando o seu Application ID no Título e corpo do e-mail.
+Você pode tentar também por e-mail atravês do e-mail [eutreatyrights@justice.ie](mailto:eutreatyrights@justice.ie) anexando os comprovantes necessários com o título "change of details - Application ID xxxxx".
 
 ## **30. Como sei que a imigração recebeu minha carta?**
 
@@ -356,8 +362,9 @@ Geralmente, o [**INIS**](https://inisonline.jahs.ie/) não confirma o recebiment
 ## **31. Qual formulário usar?**
 
 O formulário varia de acordo com a sua situação:
-- **Stamp 4 EUFam**: Use o formulário **EUTR1**, disponível no site oficial do [**INIS**](https://inisonline.jahs.ie/).
-- **Stamp 4 por casamento com cidadão irlandês**: Geralmente, o formulário é fornecido no escritório de imigração durante a consulta.
+- **Stamp 4 EUFam**: Use o formulário [EUTR1](https://www.irishimmigration.ie/wp-content/uploads/2023/12/Form-EUTR1.pdf) ou [EUTR1A](https://www.irishimmigration.ie/wp-content/uploads/2023/11/Form-EUTR1A-v1123.pdf), disponível no site oficial do INIS.
+
+- **Stamp 4 por casamento com cidadão irlandês**: [Form](https://www.irishimmigration.ie/wp-content/uploads/2024/09/Spouse-of-Irish-Application-Form-12-Sept-2024.pdf)
 
 ## **32. Quais documentos precisam de tradução juramentada e apostilamento?**
 
@@ -370,6 +377,7 @@ Tecnicamente, você pode viajar enquanto sua aplicação está em processamento,
 - Se você estiver esperando por um **Stamp 4 EUFam**, é recomendável não viajar até que tenha recebido seu cartão IRP.
 - Se você estiver aguardando uma **renovação de Stamp 4** e já tiver um visto válido, pode viajar, mas certifique-se de que terá os documentos necessários para reentrar na Irlanda.
 - Certifique-se de ter **provas de sua aplicação em andamento** ao retornar, como uma carta do [**INIS**](https://inisonline.jahs.ie/) confirmando a submissão.
+- Se tiver com o visto de turismo (90 dias) ainda válido.
 
 ## **34. Como acompanho meu processo?**
 
@@ -382,7 +390,7 @@ Você pode renovar seu **provisório de imigração** no escritório de registro
 
 ## **36. Preciso de passagem de volta?**
 
-Ao entrar na Irlanda como turista ou em alguns outros tipos de visto, a imigração pode solicitar uma **passagem de volta** como prova de que você não pretende exceder o período permitido de permanência. Para algumas aplicações de residência ou visto, pode ser necessário apresentar este documento.
+Ao entrar na Irlanda como turista ou em alguns outros tipos de visto, a imigração pode solicitar uma **passagem de volta** como prova de que você não pretende exceder o período permitido de permanência. Para algumas aplicações de residência ou visto, pode ser necessário apresentar esse documento. Porém, se você estiver entrando com o seu cônjuge europeu, a passagem de volta não é necessária, desde que a certidão de casamento traduzida seja apresentada na imigração e que seja explicado que vocês vão aplicar para o Stamp 4 EUFam.
 
 ## **37. Quanto tempo demora o processo de naturalização?**
 
@@ -403,7 +411,7 @@ Para pedir uma **extensão de visto**, você deve enviar um pedido ao **INIS** a
 
 ## **41. Posso casar por procuração?**
 
-Na Irlanda, o casamento **por procuração** (onde uma das partes não está fisicamente presente) **não é permitido**. Ambos os noivos devem estar presentes no dia da cerimônia para que o casamento seja legalmente válido.
+Casamento por procuração não é celebrado na Irlanda, mas é realizado nas embaixadas de alguns países (como o Brasil, por exemplo) e é aceito para o visto, desde que seja justificado o motivo de ter sido realizado por procuração.
 
 ## **42. Posso casar na Dinamarca ou Gibraltar ilegal?**
 
