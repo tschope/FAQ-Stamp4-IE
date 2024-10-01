@@ -57,8 +57,8 @@ Os grupos de WhatsApp Dupla cidadania/Stamp4 IE são focados em responder dúvid
 43. [Posso aplicar para cônjuge estando ilegal?](#43-posso-aplicar-para-cônjuge-estando-ilegal)
 44. [Após 5 anos de Stamp 4, como faço para renovar?](#44-após-5-anos-de-stamp-4-como-faço-para-renovar)
 45. [Eu era Stamp 2, apliquei para o Stamp 4 e recebi a carta aprovando o provisório, preciso de agendamento na Garda para trocar o cartão?](#45-eu-era-stamp-2-apliquei-para-o-stamp-4-e-recebi-a-carta-aprovando-o-provisório-preciso-de-agendamento-na-garda-para-trocar-o-cartão)
-46. [46. Escritorios da imigração na Irlanda](#46-escritorios-da-imigração-na-irlanda)
-47. [47. Seguradoras para Seguro de saúde (recursos próprios)](#47-seguradoras-para-seguro-de-saúde-recursos-próprios)
+46. [Escritorios da imigração na Irlanda](#46-escritorios-da-imigração-na-irlanda)
+47. [Seguradoras para Seguro de saúde (recursos próprios)](#47-seguradoras-para-seguro-de-saúde-recursos-próprios)
 48. [SITES DE EMPREGO NA IRLANDA](#empregos)
 
 ---
