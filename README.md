@@ -132,10 +132,25 @@ Ao aplicar para o **Stamp 4 EUFam**, você precisará fornecer os seguintes docu
     - **Se for autônomo**: registros de autônomo, faturas ou extratos bancários comerciais.
     - **Se for estudante**: carta da instituição de ensino e comprovação de que possui seguro de saúde abrangente.
     - **Se estiver autossuficiente**: demonstração de recursos financeiros adequados e seguro de saúde abrangente.
+      - O valor da comprovação financeira para cada membro da família é o mesmo para a comprovação de Stamp 2, que hoje em dia é de €4680. Essa não é uma informação oficial, mas é o que tem sido aceito nos últimos anos.
 
 #### **Outros Documentos: (Não obrigatório)**
 8. **Certificado de registro no PPSN** do cidadão da UE (Personal Public Service Number).
 9. **Seguro de saúde** (em caso de aplicação por recursos próprios ).
+
+#### **Seguro de saúde: Para quem aplicar por recursos próprios**
+- **[VHI Healthcare](https://www.vhi.ie)**
+   Uma das maiores seguradoras de saúde da Irlanda, oferecendo uma gama de planos, incluindo opções básicas que podem ser úteis para o Stamp 4.
+
+- **[Laya Healthcare](https://www.layahealthcare.ie)**
+   Oferece planos de saúde acessíveis e personalizáveis, incluindo opções básicas com cobertura para consultas e exames.
+
+- **[Irish Life Health](https://www.irishlifehealth.ie)**
+   Parte do grupo Irish Life, oferece uma variedade de planos, incluindo coberturas mais básicas.
+
+- **[HSF Health Plan](https://www.hsf.ie)**
+   Seguradora que se especializa em reembolsos de despesas médicas, oferecendo planos básicos.
+
 
 ### **6.3. Onde submeter o formulário e documentos?**
 O formulário preenchido, junto com todos os documentos listados, deve ser enviado pelo correio para o [**INIS**](https://inisonline.jahs.ie/):
