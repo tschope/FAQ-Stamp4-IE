@@ -90,7 +90,7 @@ O Stamp 4 EUFam é concedido a cônjuges, parceiros civis ou dependentes de cida
 - O relacionamento deve ser genuíno e contínuo.
 
 ### **6. Como é o processo para obter o Stamp 4 EUFam?**
-- Você deve aplicar para o **IRP Stamp 4 EUFam** enviando um formulário [EUTR1](https://www.irishimmigration.ie/wp-content/uploads/2023/12/Form-EUTR1.pdf) e os documentos exigidos ao **INIS** (Irish Naturalisation and Immigration Service). O envio deve ser feito por An Post (carta/envelope) registrada. O único comprovante de envio que você terá é o recibo do An Post.
+- Você deve aplicar para o **IRP Stamp 4 EUFam**m enviando um formulário [EUTR1](https://www.irishimmigration.ie/wp-content/uploads/2023/12/Form-EUTR1.pdf) (se for casado) ou [EUTR1A](https://www.irishimmigration.ie/wp-content/uploads/2023/11/Form-EUTR1A-v1123.pdf) (se possuir união estável/relacionamento de longa duração) e os documentos exigidos ao **INIS** (Irish Naturalisation and Immigration Service). O envio deve ser feito por An Post (carta/envelope) registrada. O único comprovante de envio que você terá é o recibo do An Post, para:
 
 ```
 EU Treaty Rights Division
