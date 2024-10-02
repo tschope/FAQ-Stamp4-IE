@@ -126,9 +126,11 @@ Ao aplicar para o **Stamp 4 EUFam**, você precisará fornecer os seguintes docu
 #### **Prova de Residência na Irlanda:**
 5. **Provas de residência conjunta na Irlanda** (contrato de aluguel, correspondência conjunta, contas de serviços públicos, etc.).
 6. **Comprovante de endereço do cidadão da UE** (conta de luz, gás, internet ou carta oficial endereçada ao cidadão da UE).
+7. **Não tenho contrato ou comprovantes de residência em meu nome. O que posso enviar?**
+    - Você pode enviar um extrato bancário (Wise, Revolut, AIB, BOI, etc.), desde que conste seu endereço. Além disso, pode solicitar ao seu locador ou à pessoa de quem você subloca o quarto/casa que escreva uma carta (preferencialmente em formato digital) informando que você reside no local desde a data X, assinando o documento.
 
 #### **Prova de Exercício dos Direitos da UE:**
-7. **Comprovante de que o cidadão da UE está exercendo seus direitos de livre circulação**:
+8. **Comprovante de que o cidadão da UE está exercendo seus direitos de livre circulação**:
     - **Se estiver trabalhando**: contrato de trabalho, cartas do empregador ou contracheques recentes.
     - **Se for autônomo**: registros de autônomo, faturas ou extratos bancários comerciais.
     - **Se for estudante**: carta da instituição de ensino e comprovação de que possui seguro de saúde abrangente.
@@ -136,8 +138,8 @@ Ao aplicar para o **Stamp 4 EUFam**, você precisará fornecer os seguintes docu
       - O valor da comprovação financeira para cada membro da família é o mesmo para a comprovação de Stamp 2, que hoje em dia é de €4680. Essa não é uma informação oficial, mas é o que tem sido aceito nos últimos anos.
 
 #### **Outros Documentos: (Não obrigatório)**
-8. **Certificado de registro no PPSN** do cidadão da UE (Personal Public Service Number).
-9. **Seguro de saúde** (em caso de aplicação por recursos próprios ).
+9. **Certificado de registro no PPSN** do cidadão da UE (Personal Public Service Number).
+10. **Seguro de saúde** (em caso de aplicação por recursos próprios ).
 
 #### **Seguro de saúde: Para quem aplicar por recursos próprios**
 - **[VHI Healthcare](https://www.vhi.ie)**
