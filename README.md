@@ -59,7 +59,8 @@ Os grupos de WhatsApp Dupla cidadania/Stamp4 IE são focados em responder dúvid
 45. [Eu era Stamp 2, apliquei para o Stamp 4 e recebi a carta aprovando o provisório, preciso de agendamento na Garda para trocar o cartão?](#45-eu-era-stamp-2-apliquei-para-o-stamp-4-e-recebi-a-carta-aprovando-o-provisório-preciso-de-agendamento-na-garda-para-trocar-o-cartão)
 46. [Escritorios da imigração na Irlanda](#46-escritorios-da-imigração-na-irlanda)
 47. [Seguradoras para Seguro de saúde (recursos próprios)](#47-seguradoras-para-seguro-de-saúde-recursos-próprios)
-48. [SITES DE EMPREGO NA IRLANDA](#empregos)
+48. [Empresas de traduções de documentos comentadas no grupo](#48-empresas-de-traduções-de-documentos-comentadas-no-grupo)
+49. [SITES DE EMPREGO NA IRLANDA](#empregos)
 
 ---
 
@@ -527,6 +528,14 @@ Para fazer o agendemento em outros escritórios da imigração na Irlanda, você
 
 - **[HSF Health Plan](https://www.hsf.ie)**
   Seguradora que se especializa em reembolsos de despesas médicas, oferecendo planos básicos.
+
+## **48. Empresas de traduções de documentos comentadas no grupo**
+
+* [ETRADUÇÕES](https://www.etraducoes.com.br/)
+* [Global link Traduções](https://api.whatsapp.com/send?phone=%2B353873950876&app=facebook&entry_point=page_cta&fbclid=IwY2xjawFx0cBleHRuA2FlbQIxMAABHfToDHN9pTMR5Tx9MA4PNZePS7dlYop6ogb7aX0dyqyPQi_GsAiSmrBTpg_aem_uwepX5P-791EYKxII_YA1g)
+* [Certificado Digital Irlanda](https://bit.ly/CDI_whatsapp)
+* [Accordi Traduções](https://wa.me/353873498088)
+* [Gold Traduções](https://wa.me/5511951619633)
 
 ## <a name="empregos"></a>SITES DE EMPREGO NA IRLANDA
 * [Indeed](http://ie.indeed.com/)
