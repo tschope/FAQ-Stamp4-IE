@@ -24,15 +24,18 @@ Os grupos de WhatsApp Dupla cidadania/Stamp4 IE são focados em responder dúvid
     - 12.2. [Documentos Necessários para a Aplicação](#122-documentos-necessários-para-a-aplicação)
     - 12.3. [Quanto tempo o processo pode levar?](#123-quanto-tempo-o-processo-pode-levar)
     - 12.4. [Como acompanhar sua aplicação?](#124-como-acompanhar-sua-aplicação)
-13. [Stamp 4 por visto de trabalho](#13-stamp-4-por-visto-de-trabalho)
-14. [Stamp 4 para familiares de irlandeses](#14-stamp-4-para-familiares-de-irlandeses)
-15. [Qual a diferença entre o Stamp 4 EUFam e o Stamp 4 por casamento com irlandês?](#15-qual-a-diferença-entre-o-stamp-4-eufam-e-o-stamp-4-por-casamento-com-irlandês)
-16. [Como obter o Stamp 4 após um visto de trabalho?](#16-como-obter-o-stamp-4-após-um-visto-de-trabalho)
+13. [Recebi a carta aprovando o provisório, o que eu faço agora?](#13-recebi-a-carta-aprovando-o-provisório-o-que-eu-faço-agora)
+    13.1 [Não tenho nenhum Cartão IRP/Stamp anterior](#131-não-tenho-nenhum-cartão-irpstamp-anterior)
+    13.2 [Já tenho um Cartão IRP/Stamp anterior](#132-já-tenho-um-cartão-irpstamp-anterior)
+14. [Recebi uma carta pedindo mais documentos, como proceder?](#14-recebi-uma-carta-pedindo-mais-documentos-como-proceder)
+    - 14.1. [Mas eu já enviei tudo o que foi pedido no formulário, por que estão pedindo mais se eu já enviei?](#141-mas-eu-já-enviei-tudo-o-que-foi-pedido-no-formulário-por-que-estão-pedindo-mais-se-eu-já-enviei)
+15. [Recebi a carta aprovando o definitivo, o que eu faço agora?](#15-recebi-a-carta-aprovando-o-definitivo-o-que-eu-faço-agora)
+16. [Quem pode solicitar o Stamp 4 com base em trabalho?](#stamp-4-por-trabalho)
 17. [Qual a diferença entre o Critical Skills Employment Permit e o General Employment Permit?](#17-qual-a-diferença-entre-o-critical-skills-employment-permit-e-o-general-employment-permit)
 18. [Como aplicar para o Stamp 4 após um Critical Skills Employment Permit?](#18-como-aplicar-para-o-stamp-4-após-um-critical-skills-employment-permit)
 19. [O que acontece se eu mudar de emprego antes de obter o Stamp 4?](#19-o-que-acontece-se-eu-mudar-de-emprego-antes-de-obter-o-stamp-4)
 20. [Posso aplicar para residência permanente com o Stamp 4 de trabalho?](#20-posso-aplicar-para-residência-permanente-com-o-stamp-4-de-trabalho)
-21. [Quais são os documentos necessários para o Stamp 4 EUFam?](#21-quais-são-os-documentos-necessários-para-o-stamp-4-eufam)
+21. [Quais são os documentos necessários para o Stamp 4 EUFam?](#processos-e-documentação)
 22. [Quais documentos são necessários para o Stamp 4 por casamento com irlandês?](#22-quais-documentos-são-necessários-para-o-stamp-4-por-casamento-com-irlandês)
 23. [Quais são as taxas envolvidas no processo?](#23-quais-são-as-taxas-envolvidas-no-processo)
 24. [Quanto tempo demora o processo do Stamp 4?](#24-quanto-tempo-demora-o-processo-do-stamp-4)
@@ -46,21 +49,23 @@ Os grupos de WhatsApp Dupla cidadania/Stamp4 IE são focados em responder dúvid
 32. [Quais documentos precisam de tradução juramentada e apostilamento?](#32-quais-documentos-precisam-de-tradução-juramentada-e-apostilamento)
 33. [Posso viajar antes da minha resposta chegar?](#33-posso-viajar-antes-da-minha-resposta-chegar)
 34. [Como acompanho meu processo?](#34-como-acompanho-meu-processo)
-35. [Onde renovou meu provisório?](#35-onde-renovo-meu-provisório)
+35. [Onde renovo meu provisório?](#35-onde-renovo-meu-provisório)
 36. [Preciso de passagem de volta?](#36-preciso-de-passagem-de-volta)
 37. [Quanto tempo demora o processo de naturalização?](#37-quanto-tempo-demora-o-processo-de-naturalização)
-38. [Faço aplicação online ou por correio?](#38-faço-aplicação-online-ou-por-correio)
+38. [Faço aplicação do Stamp 4 EUFam online ou por correio?](#38-faço-aplicação-do-stamp-4-eufam-online-ou-por-correio)
 39. [Qual o e-mail do EU Treaty Rights?](#39-qual-o-e-mail-do-eu-treaty-rights)
 40. [Como peço extensão do visto?](#40-como-peço-extensão-do-visto)
 41. [Posso casar por procuração?](#41-posso-casar-por-procuração)
 42. [Posso casar na Dinamarca ou Gibraltar ilegal?](#42-posso-casar-na-dinamarca-ou-gibraltar-ilegal)
 43. [Posso aplicar para cônjuge estando ilegal?](#43-posso-aplicar-para-cônjuge-estando-ilegal)
 44. [Após 5 anos de Stamp 4, como faço para renovar?](#44-após-5-anos-de-stamp-4-como-faço-para-renovar)
-45. [Eu era Stamp 2, apliquei para o Stamp 4 e recebi a carta aprovando o provisório, preciso de agendamento na Garda para trocar o cartão?](#45-eu-era-stamp-2-apliquei-para-o-stamp-4-e-recebi-a-carta-aprovando-o-provisório-preciso-de-agendamento-na-garda-para-trocar-o-cartão)
-46. [Escritorios da imigração na Irlanda](#46-escritorios-da-imigração-na-irlanda)
-47. [Seguradoras para Seguro de saúde (recursos próprios)](#47-seguradoras-para-seguro-de-saúde-recursos-próprios)
-48. [Empresas de traduções de documentos comentadas no grupo](#48-empresas-de-traduções-de-documentos-comentadas-no-grupo)
-49. [SITES DE EMPREGO NA IRLANDA](#empregos)
+45. [O meu Stamp 4 EUFam está para vencer, como devo proceder?](#45-o-meu-stamp-4-eufam-está-para-vencer-como-devo-proceder)
+46. [Devo esperar a minha naturalização e não renovar?](#46-devo-esperar-a-minha-naturalização-e-não-renovar)
+47. [Eu era Stamp 2, apliquei para o Stamp 4 e recebi a carta aprovando o provisório, preciso de agendamento na Garda para trocar o cartão?](#47-eu-era-stamp-2-apliquei-para-o-stamp-4-e-recebi-a-carta-aprovando-o-provisório-preciso-de-agendamento-na-garda-para-trocar-o-cartão)
+48. [Escritorios da imigração na Irlanda](#48-escritorios-da-imigração-na-irlanda)
+49. [Seguradoras para Seguro de saúde (recursos próprios)](#49-seguradoras-para-seguro-de-saúde-recursos-próprios)
+50. [Empresas de traduções de documentos comentadas no grupo](#50-empresas-de-traduções-de-documentos-comentadas-no-grupo)
+51. [SITES DE EMPREGO NA IRLANDA](#51-sites-de-emprego-na-irlanda)
 
 ---
 
@@ -280,14 +285,23 @@ A lista de documentos é crucial para garantir que sua aplicação seja aprovada
 
 O tempo de processamento do **Stamp 4** por casamento pode variar, mas geralmente é de **6 a 12 semanas**. No entanto, em alguns casos, pode demorar mais, dependendo da complexidade da sua situação ou da carga de trabalho do [**INIS**](https://inisonline.jahs.ie/).
 
-### **13. Quanto tempo o Stamp 4 para cônjuges de irlandeses é válido?**
-Inicialmente, ele pode ser concedido por 3 anos, com a possibilidade de renovação por períodos mais longos.
+### **13. Recebi a carta aprovando o provisório, o que eu faço agora?**
+Existem duas situações aqui, uma é quando você já morou na Irlanda como estudante ou com outro tipo de visto e já possui um **Cartão IRP** e a outra é quando você nunca teve um **Cartão IRP**. Os procedimentos são diferentes para cada caso.
 
-### **14. Posso trabalhar com o Stamp 4 por casamento com irlandês?**
-Sim, o Stamp 4 permite que você trabalhe na Irlanda sem necessidade de visto de trabalho.
+#### **13.1. Não tenho nenhum Cartão IRP/Stamp anterior**
+Quando você nunca teve um Cartão IRP, se você mora em Dublin, Kildare, Meath, Wicklow, Cork or Limerick você deve agendar um horário no **GNIB** (Garda National Immigration Bureau) ligando para o número [1800 800 630](tel:+3531800800630) caso você não more nesses locais você deve agendar um horário no escritório de imigração local. A lista de escritórios de imigração pode ser encontrada [aqui](#46-escritorios-da-imigração-na-irlanda). Mande um e-mail para o escritório de imigração local para saber como proceder. Junto desse e-mail anexe a carta que você recebeu aprovando o provisório.
 
-### **15. É necessário renovar o Stamp 4 por casamento com irlandês?**
-Sim, após o término do período inicial de validade (geralmente 3 anos), você pode renová-lo através de um processo similar ao da primeira aplicação.
+#### **13.2. Já tenho um Cartão IRP/Stamp anterior**
+Se você estiver em Dublin, Kildare, Meath, Wicklow, Cork or Limerick você pode pedir o novo cartão IRP online através do site [INIS](https://inisonline.jahs.ie/). Se você estiver em outra região, você deve agendar um horário no escritório de imigração local. A lista de escritórios de imigração pode ser encontrada [aqui](#46-escritorios-da-imigração-na-irlanda). Junto desse e-mail anexe a carta que você recebeu aprovando o provisório.
+
+### **14. Recebi uma carta pedindo mais documentos, como proceder?**
+Se você recebeu uma carta solicitando mais documentos, é importante fornecer esses documentos o mais rápido possível para evitar atrasos no processamento da sua aplicação. Leia com bastante atenção os documentos pedidos, pois às vezes você enviou comprovantes apenas do EU e não seus, ou vice e verse. Às vezes eles pedem os mesmos documentos apenas para obter uma nova cópia mais atualizada.
+
+#### **14.1. Mas eu já enviei tudo o que foi pedido no formulário, por que estão pedindo mais se eu já enviei?**
+É normal o pedido de mais documentos, às vezes faltou algum ou eles pedem o mais atualizado, principalmente se tratando de comprovantes de residência. Entenda que a imigração recebe pedidos fraudulentos todos os dias, apesar de parecer chato, é uma forma de garantir que você está falando a verdade. Então não pense duas vezes, envie o que foi pedido o mais rápido possível. Preste bastante atenção no que foi pedido.
+
+### **15. Recebi a carta aprovando o definitivo, o que eu faço agora?**
+Primeiramente, parabéns! Se você estiver em Dublin, Kildare, Meath, Wicklow, Cork or Limerick você pode pedir o novo cartão IRP online através do site [INIS](https://inisonline.jahs.ie/). Se você estiver em outra região, você deve agendar um horário no escritório de imigração local. A lista de escritórios de imigração pode ser encontrada [aqui](#46-escritorios-da-imigração-na-irlanda). Junto desse e-mail anexe a carta que você recebeu aprovando o definitivo.
 
 ---
 
@@ -375,7 +389,7 @@ Você pode tentar também por e-mail atravês do e-mail [eutreatyrights@justice.
 
 ## **30. Como sei que a imigração recebeu minha carta?**
 
-Geralmente, o [**INIS**](https://inisonline.jahs.ie/) não confirma o recebimento de cartas individuais. No entanto, você pode enviar sua carta por **correio registrado**, o que permite obter uma prova de entrega.
+Geralmente, o [**INIS**](https://inisonline.jahs.ie/) não confirma o recebimento de cartas individuais. No entanto, você pode enviar sua carta por **correio registrado**, o que permite obter uma "prova" de entrega.
 
 
 ## **31. Qual formulário usar?**
@@ -402,10 +416,9 @@ Tecnicamente, você pode viajar enquanto sua aplicação está em processamento,
 
 Você pode acompanhar o status da sua aplicação enviando um e-mail diretamente ao **INIS** (Irish Naturalisation and Immigration Service) ou verificando o status online no caso de algumas aplicações, como para a cidadania. Certifique-se de incluir seu **número de referência** e dados pessoais na correspondência. Para o **EU Treaty Rights**, você pode usar o e-mail [eutreatyrights@justice.ie](mailto:eutreatyrights@justice.ie).
 
-
 ## **35. Onde renovo meu provisório?**
 
-Você pode renovar seu **provisório de imigração** no escritório de registro local de imigração, ou, no caso de Dublin, no **Burgh Quay Registration Office**. É necessário agendar um horário online, levar seu passaporte, cartão IRP atual, e quaisquer outros documentos relacionados.
+Caso você não tenha recebido a sua aprovação final 1 mês antes de vencer o seu **provisório de imigração**, você deve renová-lo. Envie um e-mail para [eutreatyrights@justice.ie](mailto:eutreatyrights@justice.ie) informando que você ainda não recebeu a aprovação final e que precisa renovar o seu provisório. Eles vão te responder com as instruções de como proceder. No titulo do e-mail coloque "Renewal of Stamp 4 EUFam" e numero da sua aplicação que veio na sua carta do provisório.
 
 ## **36. Preciso de passagem de volta?**
 
@@ -415,7 +428,7 @@ Ao entrar na Irlanda como turista ou em alguns outros tipos de visto, a imigraç
 
 O processo de naturalização na Irlanda pode demorar entre **12 a 24 meses**. Este tempo pode variar dependendo da complexidade do caso e do volume de aplicações que o **INIS** está processando no momento.
 
-## **38. Faço aplicação online ou por correio?**
+## **38. Faço aplicação do Stamp 4 EUFam online ou por correio?**
 
 Atualmente, muitas aplicações relacionadas ao **Stamp 4** e outras formas de imigração ainda são feitas **por correio**, especialmente para o **Stamp 4 EUFam**. Certifique-se de enviar todos os documentos necessários para o endereço indicado no formulário relevante. Algumas renovações e processos como o registro podem ser feitos online, especialmente em Dublin.
 
@@ -442,13 +455,21 @@ Sim, você pode aplicar para o **Stamp 4 EUFam** ou outros tipos de residência 
 
 ## **44. Após 5 anos de Stamp 4, como faço para renovar?**
 
-Após 5 anos de residência com o **Stamp 4**, você pode ser elegível para a **residência permanente**. O processo é bem similar a aplicação do EUTR1, só que nesse momento você deve preencher o [EUTR3](https://www.irishimmigration.ie/wp-content/uploads/2023/12/Form-EUTR3.pdf) e enviar para o mesmo endereço do EUTR1. Você deve enviar esses documentos 6 meses antes do vencimento do Stamp 4. Lembrando que são 5 anos ininterruptos, ou seja, se você sair do país por mais de 6 meses, você perde o direito a residência permanente. Nesse caso você deve aplicar novamente atrásves do processo [EUTR1](https://www.irishimmigration.ie/wp-content/uploads/2023/12/Form-EUTR1.pdf).
+Após 5 anos de residência com o **Stamp 4**, você pode ser elegível para a **residência permanente**. O processo é bem similar a aplicação do EUTR1, só que nesse momento você deve preencher o [EUTR3](https://www.irishimmigration.ie/wp-content/uploads/2023/12/Form-EUTR3.pdf) e enviar para o mesmo endereço do EUTR1. Você deve enviar esses documentos 6 meses antes do vencimento do Stamp 4. Lembrando que são 5 anos ininterruptos, ou seja, se você sair do país por mais de 6 meses, você perde o direito a residência permanente. Nesse caso você deve aplicar novamente através do processo [EUTR1](https://www.irishimmigration.ie/wp-content/uploads/2023/12/Form-EUTR1.pdf).
 
-## **45. Eu era Stamp 2, apliquei para o Stamp 4 e recebi a carta aprovando o provisório, preciso de agendamento na Garda para trocar o cartão?**
+## **45. O meu Stamp 4 EUFam está para vencer, como devo proceder?**
+
+Após 5 anos de residência com o **Stamp 4**, você pode ser elegível para a **residência permanente**. O processo é bem similar a aplicação do EUTR1, só que nesse momento você deve preencher o [EUTR3](https://www.irishimmigration.ie/wp-content/uploads/2023/12/Form-EUTR3.pdf) e enviar para o mesmo endereço do EUTR1. Você deve enviar esses documentos 6 meses antes do vencimento do Stamp 4. Lembrando que são 5 anos ininterruptos, ou seja, se você sair do país por mais de 6 meses, você perde o direito a residência permanente. Nesse caso você deve aplicar novamente através do processo [EUTR1](https://www.irishimmigration.ie/wp-content/uploads/2023/12/Form-EUTR1.pdf).
+
+## **46. Devo esperar a minha naturalização e não renovar?**
+
+Você não deve contar com a naturalização para renovar o seu visto, pois o processo pode demorar e você pode ficar em situação irregular. É importante renovar o seu visto ou aplicar para a residência permanente antes do vencimento do seu visto atual. O seu processo de naturalização pode ser anulado ou cancelado caso você esteja em situação irregular. Siga os procedimentos corretos para garantir a sua permanência legal na Irlanda. Veja detalhes [aqui](#44-após-5-anos-de-stamp-4-como-faço-para-renovar).
+
+## **47. Eu era Stamp 2, apliquei para o Stamp 4 e recebi a carta aprovando o provisório, preciso de agendamento na Garda para trocar o cartão?**
 
 Não. Se você estiver em Dublin, Kildare, Meath, Wicklow, Cork or Limerick você pode pedir o novo cartão IRP online através do site [INIS](https://inisonline.jahs.ie/). Se você estiver em outra região, você deve agendar um horário no escritório de imigração local.
 
-## **46. Escritorios da imigração na Irlanda**
+## **48. Escritorios da imigração na Irlanda**
 
 Para fazer o agendemento em outros escritórios da imigração na Irlanda, você pode entrar em contato por e-email. Por favor incluir nome, telefone, qual o tipo de Stamp você precisa e dados do passaporte. O contato dos escritórios são os seguintes e-mails:
 
@@ -516,7 +537,7 @@ Para fazer o agendemento em outros escritórios da imigração na Irlanda, você
 | Bailieboro                    | [Bailieboro.Immigration@garda.ie](mailto:bailieboro.immigration@garda.ie) |
 | Carrickmacross                | [Carrickmacross.Immigration@garda.ie](mailto:carrickmacross.immigration@garda.ie) |
 
-## **47. Seguradoras para Seguro de saúde (recursos próprios)**
+## **49. Seguradoras para Seguro de saúde (recursos próprios)**
 - **[VHI Healthcare](https://www.vhi.ie)**
   Uma das maiores seguradoras de saúde da Irlanda, oferecendo uma gama de planos, incluindo opções básicas que podem ser úteis para o Stamp 4.
 
@@ -529,7 +550,7 @@ Para fazer o agendemento em outros escritórios da imigração na Irlanda, você
 - **[HSF Health Plan](https://www.hsf.ie)**
   Seguradora que se especializa em reembolsos de despesas médicas, oferecendo planos básicos.
 
-## **48. Empresas de traduções de documentos comentadas no grupo**
+## **50. Empresas de traduções de documentos comentadas no grupo**
 
 * [ETRADUÇÕES](https://www.etraducoes.com.br/)
 * [Global link Traduções](https://api.whatsapp.com/send?phone=%2B353873950876&app=facebook&entry_point=page_cta&fbclid=IwY2xjawFx0cBleHRuA2FlbQIxMAABHfToDHN9pTMR5Tx9MA4PNZePS7dlYop6ogb7aX0dyqyPQi_GsAiSmrBTpg_aem_uwepX5P-791EYKxII_YA1g)
@@ -537,7 +558,7 @@ Para fazer o agendemento em outros escritórios da imigração na Irlanda, você
 * [Accordi Traduções](https://wa.me/353873498088)
 * [Gold Traduções](https://wa.me/5511951619633)
 
-## <a name="empregos"></a>SITES DE EMPREGO NA IRLANDA
+## SITES DE EMPREGO NA IRLANDA
 * [Indeed](http://ie.indeed.com/)
 * [Jobs.IE](http://www.jobs.ie/)
 * [Irish Jobs](http://www.irishjobs.ie/)
