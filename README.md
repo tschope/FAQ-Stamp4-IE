@@ -215,7 +215,7 @@ Antes de preencher o formulário, é fundamental reunir toda a documentação ex
 
 #### **Passo 2: Preencher o Formulário de Aplicação**
 
-O formulário que você precisa preencher é o **Formulário de Pedido de Stamp 4 com base em Casamento com Cidadão Irlandês**. No momento, este formulário não está disponível online, e a maioria das aplicações deve ser feita pessoalmente em um escritório de imigração local (para residentes fora de Dublin) ou no **Burgh Quay Registration Office** (para residentes em Dublin).
+O formulário que você precisa preencher é o **Formulário de Pedido de Stamp 4 com base em Casamento com Cidadão Irlandês**. No momento, este formulário não está disponível online, e a maioria das aplicações deve ser feita pessoalmente em um escritório de imigração local (para residentes fora de Dublin) ou no **Burgh Quay Registration Office**.
 
 O processo de visto de residência por casamento com Irlandês funciona um pouco para diferente. Primeiro, o aconselhado é se dirigir ao escritório da Garda Local [encontre aqui](#46-escritorios-da-imigra%C3%A7%C3%A3o-na-irlanda) e se informar do procedimento. Muitas cidades fazem o processo internamente sem a necessidade de preencher o formulário. Caso sua cidade não faz, você devera preencher o seguinte formulário e enviar para os dados conforme link instrutivo.
 
@@ -289,10 +289,10 @@ O tempo de processamento do **Stamp 4** por casamento pode variar, mas geralment
 Existem duas situações aqui, uma é quando você já morou na Irlanda como estudante ou com outro tipo de visto e já possui um **Cartão IRP** e a outra é quando você nunca teve um **Cartão IRP**. Os procedimentos são diferentes para cada caso.
 
 #### **13.1. Não tenho nenhum Cartão IRP/Stamp anterior**
-Quando você nunca teve um Cartão IRP, se você mora em Dublin, Kildare, Meath, Wicklow, Cork or Limerick você deve agendar um horário no **GNIB** (Garda National Immigration Bureau) ligando para o número [1800 800 630](tel:+3531800800630) caso você não more nesses locais você deve agendar um horário no escritório de imigração local. A lista de escritórios de imigração pode ser encontrada [aqui](#46-escritorios-da-imigração-na-irlanda). Mande um e-mail para o escritório de imigração local para saber como proceder. Junto desse e-mail anexe a carta que você recebeu aprovando o provisório.
+Quando você nunca teve um Cartão IRP, você deve agendar um horário no **GNIB* (Garda National Immigration Bureau) em Dublin ligando para o número [1800 800 630](tel:+3531800800630). A partir de 04 de Novembro de 2024 todos o primeiro agendamento serão apenas em Dublin, todos os condados da Irlanda.
 
 #### **13.2. Já tenho um Cartão IRP/Stamp anterior**
-Se você estiver em Dublin, Kildare, Meath, Wicklow, Cork or Limerick você pode pedir o novo cartão IRP online através do site [INIS](https://inisonline.jahs.ie/). Se você estiver em outra região, você deve agendar um horário no escritório de imigração local. A lista de escritórios de imigração pode ser encontrada [aqui](#46-escritorios-da-imigração-na-irlanda). Junto desse e-mail anexe a carta que você recebeu aprovando o provisório.
+Você deve pedir o novo cartão IRP online através do site [INIS](https://inisonline.jahs.ie/). Vá na opção "Registration Renewal" e siga as instruções. Você deve anexar a carta que você recebeu aprovando o provisório.
 
 ### **14. Recebi uma carta pedindo mais documentos, como proceder?**
 Se você recebeu uma carta solicitando mais documentos, é importante fornecer esses documentos o mais rápido possível para evitar atrasos no processamento da sua aplicação. Leia com bastante atenção os documentos pedidos, pois às vezes você enviou comprovantes apenas do EU e não seus, ou vice e verse. Às vezes eles pedem os mesmos documentos apenas para obter uma nova cópia mais atualizada.
@@ -301,7 +301,7 @@ Se você recebeu uma carta solicitando mais documentos, é importante fornecer e
 É normal o pedido de mais documentos, às vezes faltou algum ou eles pedem o mais atualizado, principalmente se tratando de comprovantes de residência. Entenda que a imigração recebe pedidos fraudulentos todos os dias, apesar de parecer chato, é uma forma de garantir que você está falando a verdade. Então não pense duas vezes, envie o que foi pedido o mais rápido possível. Preste bastante atenção no que foi pedido.
 
 ### **15. Recebi a carta aprovando o definitivo, o que eu faço agora?**
-Primeiramente, parabéns! Se você estiver em Dublin, Kildare, Meath, Wicklow, Cork or Limerick você pode pedir o novo cartão IRP online através do site [INIS](https://inisonline.jahs.ie/). Se você estiver em outra região, você deve agendar um horário no escritório de imigração local. A lista de escritórios de imigração pode ser encontrada [aqui](#46-escritorios-da-imigração-na-irlanda). Junto desse e-mail anexe a carta que você recebeu aprovando o definitivo.
+Primeiramente, parabéns! Você deve pedir o novo cartão IRP online através do site [INIS](https://inisonline.jahs.ie/). Vá na opção "Registration Renewal" e siga as instruções. Você deve anexar a carta que você recebeu aprovando o definitivo.
 
 ---
 
@@ -467,7 +467,7 @@ Você não deve contar com a naturalização para renovar o seu visto, pois o pr
 
 ## **47. Eu era Stamp 2, apliquei para o Stamp 4 e recebi a carta aprovando o provisório, preciso de agendamento na Garda para trocar o cartão?**
 
-Não. Se você estiver em Dublin, Kildare, Meath, Wicklow, Cork or Limerick você pode pedir o novo cartão IRP online através do site [INIS](https://inisonline.jahs.ie/). Se você estiver em outra região, você deve agendar um horário no escritório de imigração local.
+Não. Você deve pedir o novo cartão IRP online através do site [INIS](https://inisonline.jahs.ie/). Vá na opção "Registration Renewal" e siga as instruções. Você deve anexar a carta que você recebeu aprovando o provisório.
 
 ## **48. Escritorios da imigração na Irlanda**
 
