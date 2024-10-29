@@ -96,7 +96,7 @@ O Stamp 4 EUFam é concedido a cônjuges, parceiros civis ou dependentes de cida
 - O relacionamento deve ser genuíno e contínuo.
 
 ### **6. Como é o processo para obter o Stamp 4 EUFam?**
-- Você deve aplicar para o **IRP Stamp 4 EUFam**m enviando um formulário [EUTR1](https://www.irishimmigration.ie/wp-content/uploads/2023/12/Form-EUTR1.pdf) (se for casado) ou [EUTR1A](https://www.irishimmigration.ie/wp-content/uploads/2023/11/Form-EUTR1A-v1123.pdf) (se possuir união estável/relacionamento de longa duração) e os documentos exigidos ao **INIS** (Irish Naturalisation and Immigration Service). O envio deve ser feito por An Post (carta/envelope) registrada. O único comprovante de envio que você terá é o recibo do An Post, para:
+- Você deve aplicar para o **IRP Stamp 4 EUFam**m enviando um formulário [EUTR1](https://www.irishimmigration.ie/wp-content/uploads/2023/12/Form-EUTR1.pdf) (se for casado) ou [EUTR1A](https://www.irishimmigration.ie/wp-content/uploads/2023/11/Form-EUTR1A-v1123.pdf) (se possuir união estável/relacionamento de longa duração) e os documentos exigidos ao **INIS** (Irish Naturalisation and Immigration Service). O envio deve ser feito por An Post (carta/envelope) registrada. O único comprovante de envio que você terá é o recibo do An Post, envie para:
 
 ```
 EU Treaty Rights Division
@@ -109,11 +109,11 @@ D02 XK70
 
 - Os documentos incluem prova de residência na Irlanda, casamento/parceria civil, e comprovação de que o cidadão da UE está exercendo seus direitos (contracheques, contrato de trabalho, etc.).
 - O processo pode levar até 6 meses para ser finalizado.
-- É normal o pedido de mais documentos durante o processo, e a primeira resposta aprovando o pedido pode ser um **Stamp 4 temporário** ocorre entre 4 a 8 semanas após o envio da aplicação.
+- É normal o pedido de mais documentos durante o processo, e a primeira resposta pode ser aprovando o pedido de um **Stamp 4 temporário** que ocorre entre 4 a 8 semanas após o envio da aplicação.
 
 ### **6.1. Como aplicar para o Stamp 4 EUFam com o formulário EUTR1?**
 
-Para aplicar ao **Stamp 4 EUFam**, é necessário preencher o formulário **EUTR1** (Residency Card for Family Members of EU Citizens). Este formulário é submetido ao [**INIS**](https://inisonline.jahs.ie/) (Irish Naturalisation and Immigration Service) junto com uma série de documentos comprobatórios.
+Para aplicar ao **Stamp 4 EUFam**, é necessário preencher o formulário **EUTR1** (Residency Card for Family Members of EU Citizens). Este formulário é submetido ao [**INIS**] (Irish Naturalisation and Immigration Service) junto com uma série de documentos comprobatórios.
 
 #### **Link para o Formulário EUTR1**
 Você pode acessar e baixar o formulário **EUTR1** no site oficial do Departamento de Justiça da Irlanda pelo seguinte link:
@@ -162,7 +162,7 @@ Ao aplicar para o **Stamp 4 EUFam**, você precisará fornecer os seguintes docu
 
 
 ### **6.3. Onde submeter o formulário e documentos?**
-O formulário preenchido, junto com todos os documentos listados, deve ser enviado pelo correio para o [**INIS**](https://inisonline.jahs.ie/):
+O formulário preenchido, junto com todos os documentos listados, deve ser enviado pelo correio para o [**INIS**]:
 
 ```
 EU Treaty Rights Division
@@ -176,9 +176,10 @@ D02 XK70
 ### **6.4. Quanto tempo demora o processo?**
 O tempo estimado para o processamento do **Stamp 4 EUFam** é de até 6 meses. Durante esse período, o solicitante pode receber uma carta confirmando que a aplicação foi recebida e, em alguns casos, pode ser emitido um cartão IRP temporário até a decisão final.
 
+Para consultar como anda seu processo, faça um cadastro na [Digital Contact Centre (DCC))](https://portal.irishimmigration.ie/), finalize seu cadastro com confirmação de ID e biometría, dentro do portal há uma aba chamada Status e dentro desta página deve aparecer o status atual de sua aplicação com o ID de aplicação (Ex.: XXXXXXX-EUTR-24). Caso tiver algum problema, mudança de endereço ou qualquer tipo de mudança, abra um chamado (Queries) no DCC para atualizar qualquer mudança que você tiver, por exemplo, endereço, trabalho e etc.
+
 ### **6.5. O que é o Stamp 4 temporário?**
 O **Stamp 4 temporário** é um documento provisório que pode ser emitido enquanto o processo de aplicação para o **Stamp 4 EUFam** está em andamento. Ele permite que o solicitante continue residindo e trabalhando na Irlanda até que a decisão final seja tomada.
-
 
 ### **7. Quanto tempo é válido o Stamp 4 EUFam?**
 O Stamp 4 EUFam geralmente é válido por 5 anos, com a possibilidade de renovação. Após 5 anos, você pode aplicar para o **Permanent Residence Card**. O temporário é válido por 6 meses.
@@ -252,6 +253,8 @@ O [**INIS**](https://inisonline.jahs.ie/) (Irish Naturalisation and Immigration 
 
 Durante o período de espera, você pode receber uma carta solicitando documentos adicionais, caso algo esteja faltando ou necessite de mais esclarecimentos. É importante responder rapidamente a qualquer solicitação.
 
+Para consultar como anda seu processo, faça um cadastro na [Digital Contact Centre (DCC))](https://portal.irishimmigration.ie/), finalize seu cadastro com confirmação de ID e biometría, dentro do portal há uma aba chamada Status e dentro desta página deve aparecer o status atual de sua aplicação com o ID de aplicação (Ex.: XXXXXXX-EUTR-24). Caso tiver algum problema, mudança de endereço ou qualquer tipo de mudança, abra um chamado (Queries) no DCC para atualizar qualquer mudança que você tiver, por exemplo, endereço, trabalho e etc.
+
 #### **Passo 6: Receber a Decisão**
 
 Se a sua aplicação for aprovada, você receberá um **IRP** que mostrará o **Stamp 4**. Esse cartão confirma o seu direito de residir e trabalhar na Irlanda sem a necessidade de um visto de trabalho adicional.
@@ -285,11 +288,13 @@ A lista de documentos é crucial para garantir que sua aplicação seja aprovada
 
 O tempo de processamento do **Stamp 4** por casamento pode variar, mas geralmente é de **6 a 12 semanas**. No entanto, em alguns casos, pode demorar mais, dependendo da complexidade da sua situação ou da carga de trabalho do [**INIS**](https://inisonline.jahs.ie/).
 
+Para consultar como anda seu processo, faça um cadastro na [Digital Contact Centre (DCC))](https://portal.irishimmigration.ie/), finalize seu cadastro com confirmação de ID e biometría, dentro do portal há uma aba chamada Status e dentro desta página deve aparecer o status atual de sua aplicação com o ID de aplicação (Ex.: XXXXXXX-EUTR-24). Caso tiver algum problema, mudança de endereço ou qualquer tipo de mudança, abra um chamado (Queries) no DCC para atualizar qualquer mudança que você tiver, por exemplo, endereço, trabalho e etc.
+
 ### **13. Recebi a carta aprovando o provisório, o que eu faço agora?**
 Existem duas situações aqui, uma é quando você já morou na Irlanda como estudante ou com outro tipo de visto e já possui um **Cartão IRP** e a outra é quando você nunca teve um **Cartão IRP**. Os procedimentos são diferentes para cada caso.
 
 #### **13.1. Não tenho nenhum Cartão IRP/Stamp anterior**
-Quando você nunca teve um Cartão IRP, você deve agendar um horário no **GNIB* (Garda National Immigration Bureau) em Dublin ligando para o número [1800 800 630](tel:+3531800800630). A partir de 04 de Novembro de 2024 todos o primeiro agendamento serão apenas em Dublin, todos os condados da Irlanda.
+Você deve realizar o cadastro no [Digital Contact Centre (DCC))](https://portal.irishimmigration.ie/) e realizar o agendamento (appointment) por lá, na aba Registration. Caso não consiga pelo site ligue para o **GNIB* (Garda National Immigration Bureau) em Dublin ligando para o número [1800 800 630](tel:+3531800800630).
 
 #### **13.2. Já tenho um Cartão IRP/Stamp anterior**
 Você deve pedir o novo cartão IRP online através do site [INIS](https://inisonline.jahs.ie/). Vá na opção "Registration Renewal" e siga as instruções. Você deve anexar a carta que você recebeu aprovando o provisório.
@@ -349,6 +354,8 @@ Atualmente, não há taxas específicas para a aplicação do **Stamp 4 EUFam**.
 ### **24. Quanto tempo demora o processo do Stamp 4?**
 O processo pode demorar até 6 meses, dependendo do tipo de Stamp e da carga de trabalho do [**INIS**](https://inisonline.jahs.ie/).
 
+Para consultar como anda seu processo, faça um cadastro na [Digital Contact Centre (DCC))](https://portal.irishimmigration.ie/), finalize seu cadastro com confirmação de ID e biometría, dentro do portal há uma aba chamada Status e dentro desta página deve aparecer o status atual de sua aplicação com o ID de aplicação (Ex.: XXXXXXX-EUTR-24). Caso tiver algum problema, mudança de endereço ou qualquer tipo de mudança, abra um chamado (Queries) no DCC para atualizar qualquer mudança que você tiver, por exemplo, endereço, trabalho e etc.
+
 ### **25. O Stamp 4 permite que eu viaje pela Europa?**
 Sim, o Stamp 4 concede residência na Irlanda, mas para viajar para outros países da UE, é importante verificar os requisitos de visto para cidadãos brasileiros no destino.
 
@@ -371,26 +378,18 @@ O tempo de processamento pode variar de acordo com o tipo de aplicação:
 - **Stamp 4 EUFam**: Pode demorar até **6 meses**.
 - **Stamp 4 por casamento com irlandês**: Geralmente leva de **6 a 12 semanas**, mas pode ser mais longo dependendo do volume de trabalho do [**INIS**](https://inisonline.jahs.ie/).
 
+Para consultar como anda seu processo, faça um cadastro na [Digital Contact Centre (DCC))](https://portal.irishimmigration.ie/), finalize seu cadastro com confirmação de ID e biometría, dentro do portal há uma aba chamada Status e dentro desta página deve aparecer o status atual de sua aplicação com o ID de aplicação (Ex.: XXXXXXX-EUTR-24). Caso tiver algum problema, mudança de endereço ou qualquer tipo de mudança, abra um chamado (Queries) no DCC para atualizar qualquer mudança que você tiver, por exemplo, endereço, trabalho e etc.
 
-## **29. Preciso trocar meus detalhes, como envio?**
 
-Se você precisar atualizar detalhes como mudança de endereço, status civil ou qualquer outra informação importante, envie uma carta para o [**INIS**](https://inisonline.jahs.ie/) com os documentos comprovativos e seu número de referência de imigração. O endereço para envio geralmente é o seguinte:
+## **29. Preciso trocar meus detalhes, como proceder?**
 
-```
-EU Treaty Rights Division
-Immigration Service Delivery,
-Department of Justice,
-13/14 Burgh Quay,
-Dublin 2,
-D02 XK70
-```
-
-Você pode tentar também por e-mail atravês do e-mail [eutreatyrights@justice.ie](mailto:eutreatyrights@justice.ie) anexando os comprovantes necessários com o título "change of details - Application ID xxxxx".
+Para consultar como anda seu processo, faça um cadastro na [Digital Contact Centre (DCC))](https://portal.irishimmigration.ie/), finalize seu cadastro com confirmação de ID e biometría, dentro do portal há uma aba chamada Status e dentro desta página deve aparecer o status atual de sua aplicação com o ID de aplicação (Ex.: XXXXXXX-EUTR-24). Abra um chamado (Queries) no DCC para atualizar qualquer mudança que você tiver, por exemplo, endereço, trabalho e etc.
 
 ## **30. Como sei que a imigração recebeu minha carta?**
 
-Geralmente, o [**INIS**](https://inisonline.jahs.ie/) não confirma o recebimento de cartas individuais. No entanto, você pode enviar sua carta por **correio registrado**, o que permite obter uma "prova" de entrega.
+Geralmente, o [**INIS**](https://inisonline.jahs.ie/) não confirma o recebimento de cartas individuais. Com o atual portal DCC, você pode acompanhar o status da sua aplicação e ver se ela foi recebida e está em andamento.
 
+Para consultar como anda seu processo, faça um cadastro na [Digital Contact Centre (DCC))](https://portal.irishimmigration.ie/), finalize seu cadastro com confirmação de ID e biometría, dentro do portal há uma aba chamada Status e dentro desta página deve aparecer o status atual de sua aplicação com o ID de aplicação (Ex.: XXXXXXX-EUTR-24). Abra um chamado (Queries) no DCC para atualizar qualquer mudança que você tiver, por exemplo, endereço, trabalho e etc.
 
 ## **31. Qual formulário usar?**
 
@@ -403,6 +402,7 @@ O formulário varia de acordo com a sua situação:
 
 - **Tradução juramentada**: Todos os documentos que não estão em inglês ou irlandês precisam ser traduzidos por um tradutor juramentado. Isso inclui certidões de casamento, nascimento, documentos legais estrangeiros, etc.
 - **Apostilamento**: Certidões e outros documentos oficiais estrangeiros devem ser apostilados (conforme a **Convenção de Haia**) antes de serem apresentados.
+- [Empresas de traduções de documentos comentadas no grupo](#50-empresas-de-traduções-de-documentos-comentadas-no-grupo)
 
 ## **33. Posso viajar antes da minha resposta chegar?**
 
@@ -414,7 +414,7 @@ Tecnicamente, você pode viajar enquanto sua aplicação está em processamento,
 
 ## **34. Como acompanho meu processo?**
 
-Você pode acompanhar o status da sua aplicação enviando um e-mail diretamente ao **INIS** (Irish Naturalisation and Immigration Service) ou verificando o status online no caso de algumas aplicações, como para a cidadania. Certifique-se de incluir seu **número de referência** e dados pessoais na correspondência. Para o **EU Treaty Rights**, você pode usar o e-mail [eutreatyrights@justice.ie](mailto:eutreatyrights@justice.ie).
+Para consultar como anda seu processo, faça um cadastro na [Digital Contact Centre (DCC))](https://portal.irishimmigration.ie/), finalize seu cadastro com confirmação de ID e biometría, dentro do portal há uma aba chamada Status e dentro desta página deve aparecer o status atual de sua aplicação com o ID de aplicação (Ex.: XXXXXXX-EUTR-24). Abra um chamado (Queries) no DCC para atualizar qualquer mudança que você tiver, por exemplo, endereço, trabalho e etc.
 
 ## **35. Onde renovo meu provisório?**
 
@@ -434,7 +434,9 @@ Atualmente, muitas aplicações relacionadas ao **Stamp 4** e outras formas de i
 
 ## **39. Qual o e-mail do EU Treaty Rights?**
 
-O e-mail do **EU Treaty Rights** é: [eutreatyrights@justice.ie](mailto:eutreatyrights@justice.ie). Você pode usá-lo para consultas sobre o processo de **Stamp 4 EUFam** ou outras questões relacionadas.
+O e-mail do **EU Treaty Rights** é: [eutreatyrights@justice.ie](mailto:eutreatyrights@justice.ie).
+
+Para consultar como anda seu processo, faça um cadastro na [Digital Contact Centre (DCC))](https://portal.irishimmigration.ie/), finalize seu cadastro com confirmação de ID e biometría, dentro do portal há uma aba chamada Status e dentro desta página deve aparecer o status atual de sua aplicação com o ID de aplicação (Ex.: XXXXXXX-EUTR-24). Abra um chamado (Queries) no DCC para atualizar qualquer mudança que você tiver, por exemplo, endereço, trabalho e etc.
 
 ## **40. Como peço extensão do visto?**
 
