@@ -63,7 +63,7 @@ Os grupos de WhatsApp Dupla cidadania/Stamp4 IE são focados em responder dúvid
 46. [Devo esperar a minha naturalização e não renovar?](#46-devo-esperar-a-minha-naturalização-e-não-renovar)
 47. [Eu era Stamp 2, apliquei para o Stamp 4 e recebi a carta aprovando o provisório, preciso de agendamento na Garda para trocar o cartão?](#47-eu-era-stamp-2-apliquei-para-o-stamp-4-e-recebi-a-carta-aprovando-o-provisório-preciso-de-agendamento-na-garda-para-trocar-o-cartão)
 48. [Escritorios da imigração na Irlanda](#48-escritorios-da-imigração-na-irlanda)
-49. [Consigo aplicar o Stam4 EUFam estando no Brasil ou fora da Irlanda?](#49-consigo-aplicar-o-stam4-eufam-estando-no-brasil-ou-fora-da-irlanda)
+49. [Consigo aplicar o Stamp 4 EUFam estando no Brasil ou fora da Irlanda?](#49-consigo-aplicar-o-stamp-4-eufam-estando-no-brasil-ou-fora-da-irlanda)
 50. [O novo sistema, Customer Service Portal (CSP), tem o status do meu atual cartão IRP?](#50-o-novo-sistema-customer-service-portal-csp-tem-o-status-do-meu-atual-cartão-irp)
 51. [O que é o Customer Service Portal (CSP) Ou Digital Contact Centre (DCC)?](#51-o-que-é-o-customer-service-portal-csp-ou-digital-contact-centre-dcc)
 52. [Seguradoras para Seguro de saúde (recursos próprios)](#52-seguradoras-para-seguro-de-saúde-recursos-próprios)
@@ -550,7 +550,7 @@ Para fazer o agendemento em outros escritórios da imigração na Irlanda, você
 | Bailieboro                    | [Bailieboro.Immigration@garda.ie](mailto:bailieboro.immigration@garda.ie) |
 | Carrickmacross                | [Carrickmacross.Immigration@garda.ie](mailto:carrickmacross.immigration@garda.ie) |
 
-## **49. Consigo aplicar o Stam4 EUFam estando no Brasil ou fora da Irlanda?**
+## **49. Consigo aplicar o Stamp 4 EUFam estando no Brasil ou fora da Irlanda?**
 
 Não. Você deve estar morando na Irlanda junto com o seu conjugue antes de aplicar. A aplicação do Stamp 4 EUFam é feita dentro da Irlanda. Se você estiver no Brasil ainda, você pode começar a organizar alguns documentos, como certidão de casamento, passaporte, etc. Mas a aplicação só pode ser feita dentro da Irlanda. O custo de traduções e cópias no Brasil é mais barato que em Euros.
 
