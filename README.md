@@ -394,7 +394,9 @@ Para consultar como anda seu processo, faça um cadastro na [Digital Contact Cen
 
 ## **29. Preciso trocar meus detalhes, como proceder?**
 
-Para consultar como anda seu processo, faça um cadastro na [Digital Contact Centre (DCC ou CSP))](https://portal.irishimmigration.ie/), finalize seu cadastro com confirmação de ID e autenticação biométrica, dentro do portal há uma aba chamada Status e dentro desta página deve aparecer o status atual de sua aplicação com o ID de aplicação (Ex.: XXXXXXX-EUTR-24). Caso você já tenha o **Application ID** e o seu caso não aparece na aba **Status**, abra um chamado (Submit Query). Abra um chamado (Submit Query) no DCC para atualizar qualquer mudança que você tiver, por exemplo, endereço, trabalho e etc.
+Caso queira fazer mudança de endereço ou qualquer tipo de mudança, abra um chamado (Submit Query) no DCC para atualizar qualquer mudança que você tiver, por exemplo, endereço, trabalho e etc.
+
+Para consultar como anda seu processo, faça um cadastro na [Digital Contact Centre (DCC ou CSP))](https://portal.irishimmigration.ie/), finalize seu cadastro com confirmação de ID e autenticação biométrica, dentro do portal há uma aba chamada Status e dentro desta página deve aparecer o status atual de sua aplicação com o ID de aplicação (Ex.: XXXXXXX-EUTR-24). Caso você já tenha o **Application ID** e o seu caso não aparece na aba **Status**, abra um chamado (Submit Query).
 
 ## **30. Como sei que a imigração recebeu minha carta?**
 
